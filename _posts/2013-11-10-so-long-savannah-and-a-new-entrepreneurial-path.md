@@ -1,6 +1,6 @@
 ---
 title: So long, Savannah, and a new entrepreneurial path
-date: 2013-11-10 15:02:42 -05:00
+date: 2013-11-10 20:02:42 Z
 categories:
 - Blog
 excerpt: "This week, I put in my two weeks' notice at Savannah's Morning News Media

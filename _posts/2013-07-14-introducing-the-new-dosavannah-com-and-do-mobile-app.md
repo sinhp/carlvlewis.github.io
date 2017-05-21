@@ -1,6 +1,6 @@
 ---
 title: Why we built the new dosavannah.com and Do mobile app
-date: 2013-07-14 04:18:26 -04:00
+date: 2013-07-14 08:18:26 Z
 ---
 
 <p>After launching the expanded standalone print edition of <a href="http://dosavannah.com/">Do</a>, our weekly arts-and-entertainment section for Savannah Morning News, back in March, we had a feeling the new physical product would soon outgrow its current digital home at savannahnow.com/do. We just didn't know how soon that day would come.</p>
