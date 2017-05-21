@@ -1,0 +1,10 @@
+---
+title: 'INTERACTIVE MAP: Bronx unemployment by neighborhood'
+date: 2012-01-02 06:08:09 -05:00
+categories:
+- Data Visualization Thoughts
+---
+
+<p><iframe width="500px" height="300px" scrolling="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&q=select+col0+from+2218798+&h=false&lat=40.85169278943306&lng=-73.840934&z=11&t=1&l=col0"></iframe></p>
+<p><em>This interactive map displays the 2010 unemployment rates for each Bronx neighborhood. The darker shade green represents a higher rate of unemployment. Click on each neighborhood to see its statistics and poverty rate.</em></p>
+<p>SOURCE: 2010 American Community Survey 1-Year Estimates</p>
