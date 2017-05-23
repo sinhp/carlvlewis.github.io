@@ -27,7 +27,7 @@ data visualization, civic tech, digital humanities: data visualization, civic te
 url: https://carlvlewis.github.io
 baseurl: 
 repository: carlvlewis/carlvlewis.github.io
-teaser: "/assets/images/blog-teaser.jpg"
+teaser: 
 words_per_minute: 100
 comments:
   provider: disqus
@@ -166,7 +166,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: "/:categories/:title/"
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 gems:
 - jekyll-paginate
