@@ -16,7 +16,7 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments:
+    comments: 
     share: true
     related: true
 locale: en
@@ -25,21 +25,21 @@ name: "@carlvlewis"
 data visualization, civic tech, digital humanities: data visualization, civic tech,
   digital humanities
 url: https://carlvlewis.github.io
-baseurl:
+baseurl: 
 repository: carlvlewis/carlvlewis.github.io
-teaser: /assets/images/blog-teaser.jpg
+teaser: "/assets/images/blog-teaser.jpg"
 words_per_minute: 100
 comments:
   provider: disqus
   disqus:
     shortname: carlvlewis
-    Key:
+    Key: 
   discourse:
-    server:
+    server: 
   facebook:
-    appid:
-    num_posts:
-    colorscheme:
+    appid: 
+    num_posts: 
+    colorscheme: 
 staticman:
   allowedFields:
   - name
@@ -64,22 +64,22 @@ staticman:
       options:
         format: iso8601
 atom_feed:
-  path:
-google_site_verification:
-bing_site_verification:
-alexa_site_verification:
-yandex_site_verification:
+  path: 
+google_site_verification: 
+bing_site_verification: 
+alexa_site_verification: 
+yandex_site_verification: 
 twitter:
   username: carlvlewis
 facebook:
-  username:
-  app_id:
-  publisher:
-og_image:
+  username: 
+  app_id: 
+  publisher: 
+og_image: 
 social:
-  type:
-  name:
-  links:
+  type: 
+  name: 
+  links: 
 analytics:
   provider: true
   google:
@@ -90,30 +90,30 @@ author:
   bio: data visualization, civic tech, digital humanities. mercer and columbia univ.
   location: 38.627003, -90.1999
   email: hello@carlvlew.is
-  uri:
-  bitbucket:
+  uri: 
+  bitbucket: 
   codepen: carlvlewis
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
+  dribbble: 
+  flickr: 
+  facebook: 
+  foursquare: 
   github: carlvlewis
-  google_plus:
+  google_plus: 
   keybase: carlvlewis
   instagram: carlvlewis
-  lastfm:
+  lastfm: 
   linkedin: carlvlewis
-  stackexchange: https://opendata.stackexchange.com/users/14970/carl-v-lewis   #provide full link like  https://opendata.stackexchange.com/users/8991/sven-van-poucke
+  stackexchange: https://opendata.stackexchange.com/users/14970/carl-v-lewis
   quora: Carl-V-Lewis-1
   pinterest: carlvlewis
-  soundcloud:
+  soundcloud: 
   stackoverflow: carlvlewis
-  steam:
-  tumblr:
+  steam: 
+  tumblr: 
   twitter: carlvlewis
-  vine:
-  weibo:
-  youtube:
+  vine: 
+  weibo: 
+  youtube: 
 include:
 - ".htaccess"
 - _pages
