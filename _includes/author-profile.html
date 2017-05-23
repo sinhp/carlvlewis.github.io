@@ -59,6 +59,14 @@
         </li>
       {% endif %}
 
+      {% if author.github %}
+        <li>
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.twitter %}
         <li>
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
@@ -91,10 +99,26 @@
         </li>
       {% endif %}
 
-      {% if author.xing %}
+      {% if author.quora %}
         <li>
-          <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-xing-square" aria-hidden="true"></i> XING
+          <a href="https://www.quora.com/profile/{{ author.quora }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> Quora
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.stackexchange %}
+        <li>
+          <a href="{{ author.stackexchange }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-stack-exchange" aria-hidden="true"></i> OpenData StackExchange
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.codepen %}
+        <li>
+          <a href="https://www.codepen.io/{{ author.codepen }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> Codepen
           </a>
         </li>
       {% endif %}
@@ -115,21 +139,14 @@
         </li>
       {% endif %}
 
-      {% if author.bitbucket %}
+      {% if author.medium %}
         <li>
-          <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+          <a href="https://medium.com/{{ author.medium }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-medium" aria-hidden="true"></i> Medium
           </a>
         </li>
       {% endif %}
 
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
 
       {% if author.stackoverflow %}
         <li>

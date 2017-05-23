@@ -1,6 +1,6 @@
 ---
-title: Site Title
-timezone: UTC
+title: DataVisualizi.ng
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -16,28 +16,30 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments: 
+    comments:
     share: true
     related: true
 locale: en
 title_separator: "-"
-name: Your Name
-description: An amazing website.
+name: "@carlvlewis"
+data visualization, civic tech, digital humanities: data visualization, civic tech,
+  digital humanities
 url: https://carlvlewis.github.io
-baseurl: 
+baseurl:
 repository: carlvlewis/carlvlewis.github.io
-teaser: 
-words_per_minute: 50
+teaser: /assets/images/blog-teaser.jpg
+words_per_minute: 100
 comments:
-  provider: 
+  provider: disqus
   disqus:
-    shortname: 
+    shortname: carlvlewis
+    Key:
   discourse:
-    server: 
+    server:
   facebook:
-    appid: 
-    num_posts: 
-    colorscheme: 
+    appid:
+    num_posts:
+    colorscheme:
 staticman:
   allowedFields:
   - name
@@ -62,55 +64,56 @@ staticman:
       options:
         format: iso8601
 atom_feed:
-  path: 
-google_site_verification: 
-bing_site_verification: 
-alexa_site_verification: 
-yandex_site_verification: 
+  path:
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 twitter:
-  username: 
+  username: carlvlewis
 facebook:
-  username: 
-  app_id: 
-  publisher: 
-og_image: 
+  username:
+  app_id:
+  publisher:
+og_image:
 social:
-  type: 
-  name: 
-  links: 
+  type:
+  name:
+  links:
 analytics:
-  provider: false
+  provider: true
   google:
-    tracking_id: 
+    tracking_id: x
 author:
-  name: Your Name
-  avatar: 
-  bio: I am an amazing person.
-  location: Somewhere
-  email: 
-  uri: 
-  bitbucket: 
-  codepen: 
-  dribbble: 
-  flickr: 
-  facebook: 
-  foursquare: 
-  github: 
-  google_plus: 
-  keybase: 
-  instagram: 
-  lastfm: 
-  linkedin: 
-  pinterest: 
-  soundcloud: 
-  stackoverflow: 
-  steam: 
-  tumblr: 
-  twitter: 
-  vine: 
-  weibo: 
-  xing: 
-  youtube: 
+  name: Carl V. Lewis
+  avatar: http://cvlassets.s3.amazonaws.com/1697569.jpg
+  bio: data visualization, civic tech, digital humanities. mercer and columbia univ.
+  location: 38.627003, -90.1999
+  email: hello@carlvlew.is
+  uri:
+  bitbucket:
+  codepen: carlvlewis
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: carlvlewis
+  google_plus:
+  keybase: carlvlewis
+  instagram: carlvlewis
+  lastfm:
+  linkedin: carlvlewis
+  stackexchange: https://opendata.stackexchange.com/users/14970/carl-v-lewis   #provide full link like  https://opendata.stackexchange.com/users/8991/sven-van-poucke
+  quora: Carl-V-Lewis-1
+  pinterest: carlvlewis
+  soundcloud:
+  stackoverflow: carlvlewis
+  steam:
+  tumblr:
+  twitter: carlvlewis
+  vine:
+  weibo:
+  youtube:
 include:
 - ".htaccess"
 - _pages
