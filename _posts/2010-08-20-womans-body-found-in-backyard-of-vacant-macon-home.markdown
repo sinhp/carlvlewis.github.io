@@ -1,6 +1,6 @@
 ---
 title: Woman's body found in backyard of vacant Macon home
-date: 2010-08-20 09:02:43 -04:00
+date: 2010-08-20 13:02:43 Z
 categories:
 - Deadline
 - Print

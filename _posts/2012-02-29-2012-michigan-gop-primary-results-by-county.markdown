@@ -1,6 +1,6 @@
 ---
 title: 'INTERACTIVE: 2012 Michigan GOP primary results by county'
-date: 2012-02-28 23:14:39 -05:00
+date: 2012-02-29 04:14:39 Z
 categories:
 - Data Visualization Thoughts
 ---

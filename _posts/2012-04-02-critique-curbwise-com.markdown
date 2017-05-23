@@ -1,6 +1,6 @@
 ---
 title: 'Critique: Curbwise.com'
-date: 2012-04-02 16:26:31 -04:00
+date: 2012-04-02 20:26:31 Z
 categories:
 - Data Visualization Thoughts
 ---

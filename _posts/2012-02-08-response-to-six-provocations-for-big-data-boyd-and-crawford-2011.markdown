@@ -1,6 +1,6 @@
 ---
 title: Response to "Six Provocations for Big Data," Boyd and Crawford (2011)
-date: 2012-02-08 11:53:11 -05:00
+date: 2012-02-08 16:53:11 Z
 categories:
 - Data Visualization Thoughts
 ---

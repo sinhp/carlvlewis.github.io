@@ -1,6 +1,6 @@
 ---
 title: Using data analysis to assess a digital news startup's future
-date: 2012-04-10 23:32:52 -04:00
+date: 2012-04-11 03:32:52 Z
 categories:
 - Blog
 - Data Visualization Thoughts

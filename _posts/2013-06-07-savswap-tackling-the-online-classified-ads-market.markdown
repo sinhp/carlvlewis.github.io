@@ -1,6 +1,6 @@
 ---
 title: 'SavSwap: Tackling the online classified ads market'
-date: 2013-06-07 13:02:09 -04:00
+date: 2013-06-07 17:02:09 Z
 categories:
 - Blog
 - Media Business Models

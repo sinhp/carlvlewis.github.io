@@ -1,6 +1,6 @@
 ---
 title: Miss Molly trolley destroyed by flames
-date: 2010-11-06 08:41:07 -04:00
+date: 2010-11-06 12:41:07 Z
 categories:
 - Deadline
 - Print

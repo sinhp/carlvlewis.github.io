@@ -1,6 +1,6 @@
 ---
 title: On the importance of localism
-date: 2012-04-02 16:20:48 -04:00
+date: 2012-04-02 20:20:48 Z
 categories:
 - Blog
 ---

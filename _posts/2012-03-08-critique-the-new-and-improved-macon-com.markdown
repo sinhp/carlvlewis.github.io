@@ -1,6 +1,6 @@
 ---
 title: 'Critique: The new (and improved) Macon.com'
-date: 2012-03-07 19:38:20 -05:00
+date: 2012-03-08 00:38:20 Z
 categories:
 - Data Visualization Thoughts
 ---

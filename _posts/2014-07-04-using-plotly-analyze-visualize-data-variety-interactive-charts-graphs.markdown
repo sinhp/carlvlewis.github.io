@@ -1,6 +1,6 @@
 ---
 title: Using plot.ly to analyze and visualize data dynamically
-date: 2014-07-04 00:35:00 -04:00
+date: 2014-07-04 04:35:00 Z
 ---
 
 <p><iframe width="640" height="480" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~carlvlewis/6.embed?width=640&height=480"></iframe></p>

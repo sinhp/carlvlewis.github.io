@@ -1,6 +1,6 @@
 ---
 title: Sen. Brown pushes HOPE limits, seeks family annual income cap of $150K
-date: 2010-10-31 15:49:38 -04:00
+date: 2010-10-31 19:49:38 Z
 categories:
 - Deadline
 - Print

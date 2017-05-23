@@ -1,6 +1,6 @@
 ---
 title: Data visualization, infographic or illustration?
-date: 2012-02-01 05:37:30 -05:00
+date: 2012-02-01 10:37:30 Z
 categories:
 - Blog
 ---

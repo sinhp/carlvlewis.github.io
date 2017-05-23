@@ -1,6 +1,6 @@
 ---
 title: "“Slay the Jews?!”"
-date: 2010-05-08 19:31:41 -04:00
+date: 2010-05-08 23:31:41 Z
 categories:
 - Enterprise
 - Print

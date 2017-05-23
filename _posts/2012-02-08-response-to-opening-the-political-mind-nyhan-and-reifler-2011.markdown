@@ -1,6 +1,6 @@
 ---
 title: Response to "Opening the Political Mind," Nyhan and Reifler (2011)
-date: 2012-02-08 13:13:52 -05:00
+date: 2012-02-08 18:13:52 Z
 categories:
 - Data Visualization Thoughts
 ---

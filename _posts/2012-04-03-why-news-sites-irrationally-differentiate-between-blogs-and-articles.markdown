@@ -1,6 +1,6 @@
 ---
 title: Why news organizations should stop differeniating blogs from articles
-date: 2012-04-03 18:50:33 -04:00
+date: 2012-04-03 22:50:33 Z
 categories:
 - Blog
 tags:

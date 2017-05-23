@@ -1,6 +1,6 @@
 ---
 title: Shoppers turn out for sales-tax savings
-date: 2009-07-30 23:43:23 -04:00
+date: 2009-07-31 03:43:23 Z
 categories:
 - Deadline
 - Print

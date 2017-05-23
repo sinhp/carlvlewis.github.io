@@ -1,6 +1,6 @@
 ---
 title: Seeds of community
-date: 2009-06-15 12:22:59 -04:00
+date: 2009-06-15 16:22:59 Z
 categories:
 - Deadline
 - Print

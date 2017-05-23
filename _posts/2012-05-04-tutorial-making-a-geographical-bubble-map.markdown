@@ -1,6 +1,6 @@
 ---
 title: Overlaying a bubble chart onto a Google map
-date: 2012-05-04 11:59:08 -04:00
+date: 2012-05-04 15:59:08 Z
 categories:
 - Blog
 - Data Visualization

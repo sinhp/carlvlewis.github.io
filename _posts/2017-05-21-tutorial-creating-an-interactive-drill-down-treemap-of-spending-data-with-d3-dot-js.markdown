@@ -2,6 +2,14 @@
 title: 'Tutorial: Creating an interactive, drill-down treemap of spending data with
   d3.js'
 date: 2017-05-21 10:44:00 Z
+categories:
+- Tutorials
+tags:
+- d3js
+- interactive data
+- tutorial
+- spending data
+- treemap
 ---
 
 <iframe src="https://player.vimeo.com/video/191347190" width="640" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -11,6 +19,7 @@ The <a href="https://en.wikipedia.org/wiki/Treemapping">treemap</a> is one of my
 
 In the accompanying screencast, we're going to take things a step further and create a dynamic treemap that will allow us to visualize multiple layers or subsets of data in each main bucket. We'll use an open-source, responsive <a href="https://d3js.org/">D3</a> charting library called <a href="http://d3plus.org">D3Plus</a> as a base template to create an interactive treemap of newly released budget data for the state of Georgia for fiscal year 2017. You can apply the same basic approach with any hierarchical dataset that you are working with.
 <h3>What you'll be creating:</h3>
+
 <iframe src="http://carlvlewis.net/georgia_budget_2017.html" width="640" height="480" frameborder="no" scrolling="no"></iframe>
 
 *The interactive treemap above displays the breakdown in projected total state and local government costs for Georgia for fiscal year 2017, according to <a href="http://www.usgovernmentspending.com/Georgia_state_spending_2017">projections</a> based upon data from the U.S. Census Bureau. The area of each rectangle represents the sector's share of the entire total estimated expenditures of $79.7  billion statewide. Hover over each rectangle to see specific numbers, and click or touch each rectangle to drill down to see a detailed breakdown of spending in each sector.*

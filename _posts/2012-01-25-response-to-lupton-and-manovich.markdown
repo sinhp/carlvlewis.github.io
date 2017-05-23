@@ -1,6 +1,6 @@
 ---
 title: On Narrow-Minded Conceptions of What Makes One a "Journalist"
-date: 2012-01-25 05:37:00 -05:00
+date: 2012-01-25 10:37:00 Z
 categories:
 - Data Visualization Thoughts
 ---

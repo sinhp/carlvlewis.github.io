@@ -1,6 +1,6 @@
 ---
 title: 'Response to Manovich on "HCI: Representation versus Control"'
-date: 2012-02-14 23:46:08 -05:00
+date: 2012-02-15 04:46:08 Z
 categories:
 - Data Visualization Thoughts
 ---

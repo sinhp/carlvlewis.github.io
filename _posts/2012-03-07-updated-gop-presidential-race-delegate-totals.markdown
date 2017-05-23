@@ -1,6 +1,6 @@
 ---
 title: 'INTERACTIVE: Super Tuesday GOP presidential primary results'
-date: 2012-03-07 04:24:12 -05:00
+date: 2012-03-07 09:24:12 Z
 categories:
 - Data Visualization Thoughts
 - Written Articles

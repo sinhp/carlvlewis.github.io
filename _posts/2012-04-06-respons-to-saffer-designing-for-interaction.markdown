@@ -1,6 +1,6 @@
 ---
 title: Respons to Saffer, "Designing for Interaction"
-date: 2012-04-06 13:51:46 -04:00
+date: 2012-04-06 17:51:46 Z
 categories:
 - Data Visualization Thoughts
 ---

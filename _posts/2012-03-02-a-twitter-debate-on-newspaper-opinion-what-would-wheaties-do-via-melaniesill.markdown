@@ -1,6 +1,6 @@
 ---
 title: A Twitter debate on newspaper opinion - what would Wheaties do? (via @melaniesill)
-date: 2012-03-02 10:39:35 -05:00
+date: 2012-03-02 15:39:35 Z
 categories:
 - Blog
 tags:

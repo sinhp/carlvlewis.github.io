@@ -1,6 +1,6 @@
 ---
 title: Commemorating history
-date: 2009-06-14 12:00:22 -04:00
+date: 2009-06-14 16:00:22 Z
 categories:
 - Deadline
 - Print

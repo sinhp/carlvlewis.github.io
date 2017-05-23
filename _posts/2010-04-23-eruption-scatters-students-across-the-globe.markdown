@@ -1,6 +1,6 @@
 ---
 title: Eyjafjallajokull eruption scatters students across the globe
-date: 2010-04-22 20:19:03 -04:00
+date: 2010-04-23 00:19:03 Z
 ---
 
 <p><a href="{{ site.baseurl }}/assets/Picture-11-239x300.png"><img class="size-medium wp-image-182 alignright" title="Picture 1" src="{{ site.baseurl }}/assets/Picture-11-239x300.png" alt="Picture 1" width="167" height="210" /></a></p>

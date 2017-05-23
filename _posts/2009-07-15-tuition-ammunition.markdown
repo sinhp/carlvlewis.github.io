@@ -1,6 +1,6 @@
 ---
 title: Tuition ammunition
-date: 2009-07-15 11:40:10 -04:00
+date: 2009-07-15 15:40:10 Z
 categories:
 - Deadline
 - Print

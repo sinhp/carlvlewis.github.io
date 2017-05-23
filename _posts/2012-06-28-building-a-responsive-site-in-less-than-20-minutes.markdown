@@ -1,6 +1,6 @@
 ---
 title: Building a responsive site in less than 20 minutes
-date: 2012-06-28 12:25:19 -04:00
+date: 2012-06-28 16:25:19 Z
 categories:
 - Blog
 - Data Visualization Thoughts

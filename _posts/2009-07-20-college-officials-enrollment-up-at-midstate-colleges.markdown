@@ -1,6 +1,6 @@
 ---
 title: 'College officials: Enrollment up at midstate colleges'
-date: 2009-07-19 23:52:18 -04:00
+date: 2009-07-20 03:52:18 Z
 categories:
 - Deadline
 - Print
