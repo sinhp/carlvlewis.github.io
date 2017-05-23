@@ -102,7 +102,7 @@
       {% if author.quora %}
         <li>
           <a href="https://www.quora.com/profile/{{ author.quora }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> Quora
+            <i class="fa fa-fw fa-quora" aria-hidden="true"></i> Quora
           </a>
         </li>
       {% endif %}
@@ -232,14 +232,6 @@
         <li>
           <a href="https://www.flickr.com/{{ author.flickr }}" itemprop="sameAs">
             <i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.codepen %}
-        <li>
-          <a href="https://codepen.io/{{ author.codepen }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen
           </a>
         </li>
       {% endif %}
