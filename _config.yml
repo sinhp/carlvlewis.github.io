@@ -1,12 +1,9 @@
 ---
-title: datastorytelli.ng
-timezone: America/New_York
+title: Site Title
+timezone: UTC
 collections:
   posts:
     title: Posts
-    output: true
-  tutorials:
-    title: Tutorials
     output: true
   uploads:
     title: Uploads
@@ -24,8 +21,8 @@ defaults:
     related: true
 locale: en
 title_separator: "-"
-name: Carl V. Lewis
-description: data visualization, civic tech, digital humanities.
+name: Your Name
+description: An amazing website.
 url: https://carlvlewis.github.io
 baseurl: 
 repository: carlvlewis/carlvlewis.github.io
@@ -89,27 +86,27 @@ author:
   name: Your Name
   avatar: 
   bio: I am an amazing person.
-  location: 32.0425, -81.0978
-  email: hello@carlvlew.is
-  uri: http://carlvlewis.net
+  location: Somewhere
+  email: 
+  uri: 
   bitbucket: 
-  codepen: carlvlewis
-  dribbble: carlvlewis
+  codepen: 
+  dribbble: 
   flickr: 
   facebook: 
   foursquare: 
-  github: carlvlewis
+  github: 
   google_plus: 
-  keybase: carlvlewis
-  instagram: carlvlewis
+  keybase: 
+  instagram: 
   lastfm: 
-  linkedin: carlvlewis
-  pinterest: carlvlewis
+  linkedin: 
+  pinterest: 
   soundcloud: 
   stackoverflow: 
   steam: 
   tumblr: 
-  twitter: carlvlewis
+  twitter: 
   vine: 
   weibo: 
   xing: 
