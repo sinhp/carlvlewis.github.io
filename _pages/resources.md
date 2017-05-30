@@ -1,3 +1,8 @@
+---
+title: Resources
+date: 2017-04-17 15:37:00 -04:00
+layout: single
+---
 
 [Source](http://carlvlewis2.wpengine.com/resources/ "Permalink to Resources/Tutorials - Carl V. Lewis")
 
