@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-[Source](http://carlvlewis2.wpengine.com/resources/ "Permalink to Resources/Tutorials - Carl V. Lewis")
-
 # Resources/Tutorials - Carl V. Lewis
 
 ![Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"][1]
