@@ -1,7 +1,7 @@
 ---
 title: Testimonials
 date: 2017-04-17 15:37:00 -04:00
-permalink: "/testimonials/"
+permalink: "/resources/"
 layout: single
 author_profile: true
 ---
@@ -46,6 +46,8 @@ Me delivering a lecture on mobile reporting best tools and practices. "Not Just 
 
 [cvStrap][13] -A custom theme available as a NPM for the JSONResume scheme, creating a classic Bootstrap 2.0 components with print and screen stylesheets.
 
+[dataviz.tools][17] - A curated list of 400+ data visualization tools and libraries. Featured on the top of ProductHunt.
+
 [OpenProcure.Us][14] – Co-founded "Open Procure," a collaborative effort to make more easily accessible often hidden government agency purchasing/procurement limits for open bidding.
 
 ## Elsewhere
@@ -72,3 +74,4 @@ Me delivering a lecture on mobile reporting best tools and practices. "Not Just 
 [14]: http://openprocure.com
 [15]: https://www.pinterest.com/carlvlewis/data-viz-tools-libraries-sources-%2B-more/
 [16]: http://www.slideshare.net/carlvlewis/social-media-for-non-digital-native-journalists
+[17]: http://dataviz.tools
