@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-
 [Source](http://carlvlewis2.wpengine.com/resources/ "Permalink to Resources/Tutorials - Carl V. Lewis")
 
 # Resources/Tutorials - Carl V. Lewis
