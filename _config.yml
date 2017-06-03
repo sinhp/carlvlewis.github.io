@@ -22,9 +22,8 @@ defaults:
 locale: en
 title_separator: "-"
 name: "@carlvlewis"
-data visualization, civic tech, digital humanities: data visualization, civic tech,
-  digital humanities
-url: https://carlvlewis.github.io
+data visualization, civic tech, digital humanities
+url: https://datavisuali.ng
 baseurl: 
 repository: carlvlewis/carlvlewis.github.io
 teaser: 
@@ -87,7 +86,7 @@ analytics:
 author:
   name: Carl V. Lewis
   avatar: http://cvlassets.s3.amazonaws.com/1697569.jpg
-  bio: data visualization, civic tech, digital humanities. mercer and columbia univ.
+  bio: data visualization, civic tech, digital humanities
   location: 38.627003, -90.1999
   email: hello@carlvlew.is
   uri: 
