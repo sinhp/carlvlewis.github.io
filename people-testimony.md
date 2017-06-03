@@ -8,9 +8,8 @@ layout: single
 
 > Carl is a terrific digital mind. He has proven his fluency in several critical web development languages - HTML5, CSS, Javascript and PHP - and he uses those skills to craft engaging, intuitive digital projects. Better still, Carl is fully capable of disseminating his knowledge to his team and coworkers. He is no closet-and-dark-room developer; he can lead a team from concept to finished project. And like any good journalist, he's detail oriented and deadline driven.
 
-*Jonathan Bennett*
-
-*Web Development Manager, HealthGrades.com*
+>
+>> **Jonathan Bennett**, Web Development Manager, HealthGrades.com*
 
 > Working with Carl is pure joy...he's on top of his digital game no doubt, but he brings his special brand of humor and wit to bear on the marketing and branding department. Carl will thrive in an entrepreneurial environment, wearing multiple hats. He's enthusiastic about "big data" and tackling complex problems. He's as comfortable working with a team as he is contributing to projects from his own corner of the world. If you're looking for someone who brings a fresh outlook to his work, who is constantly evolving, and who is passionate about building a quality digital experience, look no further than Carl V. Lewis.
 >
