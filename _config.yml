@@ -23,11 +23,11 @@ locale: en
 title_separator: "-"
 name: "@carlvlewis"
 data visualization, civic tech, digital humanities
-url: http://datavisuali.ng
+url: https://carlvlewis.github.io
 baseurl: 
 repository: carlvlewis/carlvlewis.github.io
 teaser: 
-words_per_minute: 100
+words_per_minute: 50
 comments:
   provider: disqus
   disqus:
