@@ -22,7 +22,6 @@ defaults:
 locale: en
 title_separator: "-"
 name: "@carlvlewis"
-data visualization, civic tech, digital humanities
 url: https://carlvlewis.github.io
 baseurl: 
 repository: carlvlewis/carlvlewis.github.io
