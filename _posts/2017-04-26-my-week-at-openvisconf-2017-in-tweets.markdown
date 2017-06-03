@@ -1,6 +1,7 @@
 ---
 title: My week at OpenVisConf 2017 in tweets
 date: 2017-04-26 23:28:00 -04:00
+comments: true
 ---
 
 <p><em>This is the first of two tutorials on adding hover interactions to interactive maps<em> using free, open-source tools.</em></em></p>
