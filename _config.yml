@@ -39,7 +39,7 @@ comments:
     num_posts: 
     colorscheme: 
 staticman:
-  allowedFields: true
+  allowedFields: 
   - name
   - email
   - url
