@@ -28,9 +28,9 @@ repository: carlvlewis/carlvlewis.github.io
 teaser: 
 words_per_minute: 50
 comments:
-  provider: disqus
+  provider: staticman
   disqus:
-    shortname: carlvlewis
+    shortname: 
     Key: 
   discourse:
     server: 
