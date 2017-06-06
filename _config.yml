@@ -16,7 +16,7 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments: true 
+    comments: true
     share: true
     related: true
 locale: en
@@ -39,7 +39,7 @@ comments:
     num_posts: 
     colorscheme: 
 staticman:
-  allowedFields: 
+  allowedFields:
   - name
   - email
   - url
