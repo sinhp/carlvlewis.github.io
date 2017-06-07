@@ -7,7 +7,6 @@ layout: single
 ---
 
 > Carl is a terrific digital mind. He has proven his fluency in several critical web development languages - HTML5, CSS, Javascript and PHP - and he uses those skills to craft engaging, intuitive digital projects. Better still, Carl is fully capable of disseminating his knowledge to his team and coworkers. He is no closet-and-dark-room developer; he can lead a team from concept to finished project. And like any good journalist, he's detail oriented and deadline driven.
-
 >
 >> **Jonathan Bennett**, Web Development Manager, HealthGrades.com*
 
