@@ -1,5 +1,6 @@
 ---
-title: My week at OpenVisConf 2017 in tweets – or, how I learned to stop hating and be okay with Tableau
+title: My week at OpenVisConf 2017 in tweets – or, how I learned to stop hating and
+  be okay with Tableau
 date: 2017-04-26 23:28:00 -04:00
 comments: true
 ---
