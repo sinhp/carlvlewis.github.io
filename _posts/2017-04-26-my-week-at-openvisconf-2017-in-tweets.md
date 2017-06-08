@@ -1,5 +1,5 @@
 ---
-title: My week at OpenVisConf 2017 in tweets
+title: My week at OpenVisConf 2017 in tweets – or, how I learned to stop hating and be okay with Tableau
 date: 2017-04-26 23:28:00 -04:00
 comments: true
 ---
@@ -18,9 +18,9 @@ Let's keep in mind Mike Bostock's words-of-wisdom in his keynote on <a href="htt
 
 > Code is often the best tool we have because it is the most general tool. -Bostock
 
-And therein lies the reason for much of my heretofore disdain for B.I. apps such as Tableau. But just because Tableau extracts code with 'drop-down menus' doesn't have value whatsoever. As Bostock reminds us, "Code has come a long way, but it's still far from human-friendly."
+And therein lies the reason for much of my heretofore disdain for B.I. apps such as Tableau. But just because Tableau abstracts code with 'drop-down menus' doesn't have value whatsoever. As Bostock reminds us, "Code has come a long way, but it's still far from human-friendly."
 
-Which got me thinking more deeply about what it means to be 'human-friendly.' Certainly, Tableau must have something going for it in this area or else it wouldn't enjoy such ad nouveau popularity. So, when a dataset of tweets from the conference flashed in a notification on my screen, I figured I'd see if I could, in less than 15 minutes, visualize the dataset in a meaningful way that conveyed a narrative, afforded user interaction and was <em>accessible</em> to users of all screen sizes. While I'd normally reach for a d3 plugin like `d3.treemap` or `d3.circle' and spend roughly 30-45 minutes building a bespoke visualization, I found myself, as a new user of Tableau, quickly producing precisely what I'd envisioned well within my 15-minute time constraint. Did I inherently limit the expressiveness of what I <em>might</em> have created using code alone? Certainly. But I also accomplished the goal that, as Schneiderman reminds us, is the ultimate goal of visualization: insight.
+Which got me thinking more deeply about what it means to be 'human-friendly.' Certainly, Tableau must have something going for it in the HCD arena or else it wouldn't enjoy such ad nouveau popularity. So, when a dataset of tweets from the conference flashed in a notification on my screen, I figured I'd see if I could, in less than 15 minutes, visualize the dataset in a meaningful way that conveyed a narrative, afforded user interaction and was <em>accessible</em> to users of all screen sizes. While I'd normally reach for a d3 plugin like `d3.treemap` or `d3.circle' and spend roughly 30-45 minutes building a bespoke visualization, I found myself, as a new user of Tableau, quickly producing precisely what I'd envisioned well within my 15-minute time constraint. Did I inherently limit the expressiveness of what I <em>might</em> have created using code alone? Certainly. But I also accomplished the goal that, as Schneiderman reminds us, is the ultimate goal of visualization: insight.
 
 So, I no longer <em>hate</em> Tableau. That has very little to do with the multitude of things I learned at OpenVis, but it, to me, was a central theme surrounding many of the talks. What is the purpose of visualization? Innovation for innovation's sake or insight?
 
