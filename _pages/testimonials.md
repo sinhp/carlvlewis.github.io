@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-date: 2017-04-17 12:37:00 -0700
+date: 2017-04-17 15:37:00 -04:00
 layout: single
 ---
 
