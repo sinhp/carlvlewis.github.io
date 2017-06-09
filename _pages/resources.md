@@ -1,14 +1,8 @@
 ---
-title: "Resources"
+layout: single
 permalink: /resources/
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+title: "Resources"
+author_profile: true
 ---
 
 ![Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"](https://i2.wp.com/carlvlewis2.wpengine.com/wp-content/uploads/2012/09/10378983_10203337850063506_5153336567854374100_n.jpg?resize=312%2C275)
