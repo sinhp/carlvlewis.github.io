@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# Resources/Tutorials - Carl V. Lewis
-
 ![Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"][1]
 
 Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"
