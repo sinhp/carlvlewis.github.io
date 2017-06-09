@@ -1,5 +1,5 @@
 ---
-title: Testimonials
+title: Resources
 date: 2017-04-17 15:37:00 -04:00
 permalink: "/resources/"
 layout: single
