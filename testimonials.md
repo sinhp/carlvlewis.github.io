@@ -1,7 +1,6 @@
 ---
 title: Testimonials
-permalink: "/testimonials/"
-author_profile: true
+date: 2017-04-17 12:37:00 -0700
 layout: single
 ---
 
