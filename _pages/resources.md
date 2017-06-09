@@ -1,7 +1,8 @@
 ---
 title: "Resources"
+permalink: /resources/
 scope:
-  path: "/resources/"
+  path: ""
   type: pages
 values:
   layout: single
