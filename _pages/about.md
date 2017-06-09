@@ -1,5 +1,6 @@
 ---
 title: About
+permalink: "/about/"
 date: 2017-04-17 15:37:00 -04:00
 layout: single
 ---
