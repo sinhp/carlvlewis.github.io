@@ -1,6 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/ 
+layout: single
 author_profile: true
 date: 2017-04-17 15:37:00 -04:00
 ---
