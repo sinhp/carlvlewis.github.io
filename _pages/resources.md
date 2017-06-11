@@ -6,9 +6,8 @@ type: pages
 author_profile: true
 ---
 
-![Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"](https://i2.wp.com/carlvlewis2.wpengine.com/wp-content/uploads/2012/09/10378983_10203337850063506_5153336567854374100_n.jpg?resize=312%2C275)
+![](http://cvlassets.s3.amazonaws.com/17359345_1551515938205633_8342056936436861060_o.jpg)
 
-Me delivering a lecture on mobile reporting best tools and practices. "Not Just for Selfies"
 
 ## Talks and presentations
 
@@ -37,6 +36,8 @@ Me delivering a lecture on mobile reporting best tools and practices. "Not Just 
 [Using d3.js to build an interactive treemap of hierarchical spending data](https://vimeo.com/191347190)
 
 ## Open-Source Software Projects
+
+[dataviz.tools](http://dataviz.tools) - Founded, curate and maintain dataviz.tools, a site indexing the most popular tools and technologies for data visualization.
 
 [cvStrap](http://carlvlewis.github.io/cvStrap) -A custom theme available as a NPM for the JSONResume scheme, creating a classic Bootstrap 2.0 components with print and screen stylesheets.
 
