@@ -1,7 +1,7 @@
 ---
+title: Resources
+permalink: "/resources/"
 layout: single
-permalink: /resources/
-title: "Resources"
 type: pages
 author_profile: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Testimonials
 date: 2017-04-17 15:37:00 -04:00
-permalink: /testimonials/
+permalink: "/testimonials/"
 layout: single
 ---
 

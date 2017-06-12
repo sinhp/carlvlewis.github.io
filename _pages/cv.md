@@ -1,7 +1,7 @@
 ---
+title: CV/Resume
+permalink: "/cv/"
 layout: single
-permalink: /cv/
-title: "CV/Resume"
 type: pages
 author_profile: true
 ---
