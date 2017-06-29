@@ -28,7 +28,7 @@ repository: carlvlewis/carlvlewis.github.io
 teaser: 
 words_per_minute: 50
 comments:
-  provider: staticman
+  provider: disqus
   disqus:
     shortname: 
     Key: 
@@ -85,11 +85,12 @@ analytics:
 author:
   name: Carl V. Lewis
   avatar: http://cvlassets.s3.amazonaws.com/1697569.jpg
-  bio: data visualization, civic tech, digital humanities
+  bio: data visualization, civic-tech, digital humanities, media futurism.
   location: 38.627003, -90.1999
   email: hello@carlvlew.is
   uri: 
   bitbucket: 
+  bl.ocks: http://bl.ocks.org/carlvlewis
   codepen: carlvlewis
   dribbble: 
   flickr: 
