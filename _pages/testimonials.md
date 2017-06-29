@@ -3,6 +3,8 @@ title: Testimonials
 date: 2017-04-17 15:37:00 -04:00
 permalink: "/testimonials/"
 layout: single
+type: pages
+author_profile: true
 ---
 
 > Carl is a terrific digital mind. He has proven his fluency in several critical web development languages - HTML5, CSS, Javascript and PHP - and he uses those skills to craft engaging, intuitive digital projects. Better still, Carl is fully capable of disseminating his knowledge to his team and coworkers. He is no closet-and-dark-room developer; he can lead a team from concept to finished project. And like any good journalist, he's detail oriented and deadline driven.
