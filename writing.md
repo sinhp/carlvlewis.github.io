@@ -1,8 +1,16 @@
+---
+title: Published Writinga
+permalink: "/writings/"
+layout: single
+type: pages
+author_profile: true
+---
+
 ### A. NEWS-WRITING AND REPORTING
 
 Below you'll find a sampling of my news writing and reporting work. To see a more thorough archive, click [here][1].
 
-#### Breaking
+#### Breaking (Deadline)
 
 * [Republicans trim Cagle's powers][2], _The Telegraph_ (Macon, Ga.), Nov. 8, 2010
 * [Woman's body found in backyard of vacant Macon home][3], _The Telegraph_ (Macon, Ga.), 20 Aug. 2010
@@ -10,7 +18,7 @@ Below you'll find a sampling of my news writing and reporting work. To see a mor
 * [Mercer student found dead in apartment near campus][5], _The Mercer Cluster_, Mar. 31, 2011.
 * [State colleges, universities hit with furloughs][6], _The Telegraph _(Macon, Ga.), 13 Aug. 2009
 
-#### Features
+#### Features (Deadline)
 
 * [The Bullet-Dodging Priest][7], _The Bronx Ink_, Aug. 11, 2011.
 * [Cochran home infested with estimated 1,000 bats][8], _The Telegraph_ (Macon, Ga.), Jul. 18, 2009 (follow-up [story][9] ran on Jul. 30).
@@ -19,7 +27,7 @@ Below you'll find a sampling of my news writing and reporting work. To see a mor
 * [Home Schooling: Georgia College Foundation hopes to save home of pioneering black educator][12], _The Telegraph_ (Macon, Ga.), Jun. 25, 2009.
 * [Peach of a Party][13], _The Sun News_ (Houston County, Ga.), Jun. 17, 2009.
 
-## Investigative
+## Investigative (Deadline)
 
 * [Foreign students vote fraudulently][14], _The Oxford Student_, 13 May 2010.
 * [Scholarships funneled to wrestling club from general admissions funds][15], _The Mercer Cluster, _Mar. 30, 2012.
