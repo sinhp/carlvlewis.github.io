@@ -6,6 +6,7 @@ comments: true
 ---
 
 ![](http://cvlassets.s3.amazonaws.com/knight-civic-tech.png)
+
 *The Knight Foundation, which has traditionally funded journalism grants, has ventured into the Civic Tech ecosystem in recent years. The venn diagram above depicts the definition of 'civic-tech' according to [Knight's 2013 report](https://knightfoundation.org/features/civictech/) on the civic-tech ecosystem. *
 
 As a former digital editor and data journalist who as of last year grew weary of working in legacy news outlets and left to do more visualization work in the freelance space, I've ever since felt a nagging inside me to get back into data storytelling for civic good.
