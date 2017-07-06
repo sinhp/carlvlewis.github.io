@@ -17,10 +17,12 @@ Much of that empty feeling of lacking purpose has been supplanted by my work in 
 
 So, I've decided to conduct a research effort on the intersectionality of the two self-identities of data journalism and civic technology. How much do they overlap? Do they share the same fundamental goals, or is one more about serving a watchdog function? Are civic-tech community members engaged with legacy journalism outlets? Do they think data and technology is being properly deployed at their city's metro daily?
 
+### Process Overview
+
 The first stage of the research involves first-person interviews, movement research and two (2) separate surveys that will attempt to reach a goal of getting feedback from at least 1,000 individuals who self-identify as part of the "civic-tech" community and 1,000 who identify as part of the "data journalism" community.
 
 I'm starting first with the civic-tech community, as that will require the most effort on my part to acquire a representative sample-set given that I'm relatively new to the movement having only a few months ago [founded our local brigade](https://medium.com/code-for-america/founding-open-savannah-an-attempt-to-modernize-a-city-that-clings-to-its-history-a7f88f560d84). 
 
-#### If you consider yourself in any way involved in civic tech either as a public servant, an entrepreneur or a volunteer, you should totally consider answering just a few quick questions at [cvl.io/civj](http://cvl.io/civj.
+#### If you consider yourself in any way involved in civic tech either as a public servant, an entrepreneur or a volunteer, you should totally consider answering just a few quick questions at [http://cvl.io/civj](http://cvl.io/civj).
 
 
