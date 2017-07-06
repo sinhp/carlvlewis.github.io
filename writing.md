@@ -1,4 +1,4 @@
-### NEWS-WRITING AND REPORTING
+### A. NEWS-WRITING AND REPORTING
 
 Below you'll find a sampling of my news writing and reporting work. To see a more thorough archive, click [here][1].
 
@@ -33,7 +33,7 @@ Below you'll find a sampling of my news writing and reporting work. To see a mor
 * [Opt-in tax credits give boon to midstate private schools][20], _The Telegraph_ (Macon, Ga.), Aug. 7, 2010.
 * [Outside the Big Box][21], _The Telegraph_ (Macon, Ga.), Jun. 19, 2009.
 
-### RESEARCH AND SCHOLARLY WORK
+### B.RESEARCH AND SCHOLARLY WORK
 
 * Lewis, Carl V. 2012. <em>The Newspaper That Fell From Its Ivory Tower: The Philadelphia Inquirer's Slow Death Chasing Suburbia</em>, Columbia University Academic Commons,  https://doi.org/10.7916/D8K074RG
 
