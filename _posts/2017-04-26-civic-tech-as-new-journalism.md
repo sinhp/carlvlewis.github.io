@@ -4,6 +4,7 @@ title: Surveying the intersectional identity of the data journalism and civic-te
 date: 2017-04-26 23:28:00 -04:00
 comments: true
 ---
+
 ## Searching for cross-discipline linkages for collaboration
 
 ![](http://cvlassets.s3.amazonaws.com/knight-civic-tech.png)
