@@ -2,10 +2,18 @@
 main:
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
   - title: "Resources"
     url: /resources/
   - title: "Testimonials"
     url: /testimonials/
+  - title: "Writing"
+    url: /writing/
+  - title: "Visualizations"
+    url: /visualizations/
+  - title: "Other Projects"
+    url: /other-projects/
 
  # title: "Sample Posts"
   #  url: /year-archive/
