@@ -4,10 +4,11 @@ title: Surveying the intersectional identity of the data journalism and civic-te
 date: 2017-04-26 23:28:00 -04:00
 comments: true
 ---
+## Searching for cross-discipline linkages for collaboration
 
 ![](http://cvlassets.s3.amazonaws.com/knight-civic-tech.png)
 
-*The Knight Foundation, which has traditionally funded journalism grants, has ventured into the Civic Tech ecosystem in recent years. The venn diagram above depicts the definition of 'civic-tech' according to [Knight's 2013 report](https://knightfoundation.org/features/civictech/) on the civic-tech ecosystem. *
+<em>The Knight Foundation, which has traditionally funded journalism grants, has ventured into the Civic Tech ecosystem in recent years. The venn diagram above depicts the definition of 'civic-tech' according to [Knight's 2013 report](https://knightfoundation.org/features/civictech/) on the civic-tech ecosystem. </em>
 
 As a former digital editor and data journalist who as of last year grew weary of working in legacy news outlets and left to do more visualization work in the freelance space, I've ever since felt a nagging inside me to get back into data storytelling for civic good.
 
@@ -17,6 +18,8 @@ So, I've decided to conduct a research effort on the intersectionality of the tw
 
 The first stage of the research involves first-person interviews, movement research and two (2) separate surveys that will attempt to reach a goal of getting feedback from at least 1,000 individuals who self-identify as part of the "civic-tech" community and 1,000 who identify as part of the "data journalism" community.
 
-I'm starting first with the civic-tech community, as that will require the most effort on my part to get a representative sampling given that I'm relatively new to the movement having only a few months ago [founded our local brigade](https://medium.com/code-for-america/founding-open-savannah-an-attempt-to-modernize-a-city-that-clings-to-its-history-a7f88f560d84).
+I'm starting first with the civic-tech community, as that will require the most effort on my part to acquire a representative sample-set given that I'm relatively new to the movement having only a few months ago [founded our local brigade](https://medium.com/code-for-america/founding-open-savannah-an-attempt-to-modernize-a-city-that-clings-to-its-history-a7f88f560d84). 
+
+#### If you consider yourself in any way involved in civic tech either as a public servant, an entrepreneur or a volunteer, you should totally consider answering just a few quick questions at [cvl.io/civj](http://cvl.io/civj.
 
 
