@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /cv/
+    url: http://cv.carlvlewis.net
   - title: "Resources"
     url: /resources/
   - title: "Testimonials"
