@@ -2,7 +2,7 @@
 
 Below you'll find a sampling of my news writing and reporting work. To see a more thorough archive, click [here][1].
 
-## Breaking
+#### Breaking
 
 * [Republicans trim Cagle's powers][2], _The Telegraph_ (Macon, Ga.), Nov. 8, 2010
 * [Woman's body found in backyard of vacant Macon home][3], _The Telegraph_ (Macon, Ga.), 20 Aug. 2010
@@ -10,7 +10,7 @@ Below you'll find a sampling of my news writing and reporting work. To see a mor
 * [Mercer student found dead in apartment near campus][5], _The Mercer Cluster_, Mar. 31, 2011.
 * [State colleges, universities hit with furloughs][6], _The Telegraph _(Macon, Ga.), 13 Aug. 2009
 
-## Features
+#### Features
 
 * [The Bullet-Dodging Priest][7], _The Bronx Ink_, Aug. 11, 2011.
 * [Cochran home infested with estimated 1,000 bats][8], _The Telegraph_ (Macon, Ga.), Jul. 18, 2009 (follow-up [story][9] ran on Jul. 30).
