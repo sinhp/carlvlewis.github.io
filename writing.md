@@ -1,6 +1,6 @@
 ---
 title: Published Writinga
-permalink: "/writings/"
+permalink: "/writing/"
 layout: single
 type: pages
 author_profile: true
