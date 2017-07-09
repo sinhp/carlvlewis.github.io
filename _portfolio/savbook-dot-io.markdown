@@ -6,4 +6,4 @@ excerpt: "![](https://cvlassets.s3.amazonaws.com/savbook.png)"
 layout: single
 ---
 
-![savbook](https://cvlassets.s3.amazonaws.com/savbook.png)
+![](https://cvlassets.s3.amazonaws.com/savbook.png)
