@@ -1,8 +1,8 @@
 ---
 title: "savbook.io"
 collection: portfolio
-author_profile: true
 excerpt: "books are cool"
+author_profile: true
 layout: single
 ---
 
