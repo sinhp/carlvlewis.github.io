@@ -2,6 +2,7 @@
 title: "savbook.io"
 collection: portfolio
 author_profile: true
+excerpt: "books are cool"
 layout: single
 ---
 
