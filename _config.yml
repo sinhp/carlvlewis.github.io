@@ -2,6 +2,9 @@
 title: DataVisualizi.ng
 timezone: America/New_York
 collections:
+  portfolio:
+    title: Portfolio
+    output: true
   posts:
     title: Posts
     output: true
