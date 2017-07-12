@@ -1,6 +1,6 @@
 ---
 title: 'Critique: "Agreement Groups in the United States Senate"'
-date: 2012-04-06 17:06:56 -04:00
+date: '2012-04-06T21:06:56.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---

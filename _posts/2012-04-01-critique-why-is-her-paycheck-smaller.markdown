@@ -1,6 +1,6 @@
 ---
 title: Critique, "Why is Her Paycheck Smaller?"
-date: 2012-04-01 19:57:29 -04:00
+date: '2012-04-01T23:57:29.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---

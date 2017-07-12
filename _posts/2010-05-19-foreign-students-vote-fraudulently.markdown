@@ -1,6 +1,6 @@
 ---
 title: Foreign students vote fraudulently
-date: 2010-05-19 15:01:54 -04:00
+date: '2010-05-19T19:01:54.000+00:00'
 categories:
 - Deadline
 - Enterprise

@@ -1,6 +1,6 @@
 ---
 title: Response to Ayres, Norman and Wolfe
-date: 2012-02-01 05:18:02 -05:00
+date: '2012-02-01T10:18:02.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---

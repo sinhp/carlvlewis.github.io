@@ -1,23 +1,16 @@
-# main links
+---
 main:
-  - title: "About"
-    url: /about/
-  - title: "CV"
-    url: http://cv.carlvlewis.net
-  - title: "Resources"
-    url: /resources/
-  - title: "Testimonials"
-    url: /testimonials/
-  - title: "Writing"
-    url: /writing/
-  - title: "Visualizations"
-    url: /portfolio/
-  - title: "Other Projects"
-    url: /other-projects/
-
- # title: "Sample Posts"
-  #  url: /year-archive/
-  # title: "Sample Collections"
-   # url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+- title: About
+  url: "/about/"
+- title: CV
+  url: http://cv.carlvlewis.net
+- title: Resources
+  url: "/resources/"
+- title: Testimonials
+  url: "/testimonials/"
+- title: Writing
+  url: "/writing/"
+- title: Visualizations
+  url: "/portfolio/"
+- title: Other Projects
+  url: "/other-projects/"

@@ -1,7 +1,7 @@
 ---
 title: Surveying the intersectional identity of the data journalism and civic-tech
   ecosystems
-date: 2017-04-26 23:28:00 -04:00
+date: '2017-04-27T03:28:00.000+00:00'
 comments: true
 ---
 

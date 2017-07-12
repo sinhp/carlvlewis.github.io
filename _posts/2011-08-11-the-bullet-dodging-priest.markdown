@@ -1,6 +1,6 @@
 ---
 title: The Bullet-Dodging Priest of the North Bronx
-date: 2011-08-11 10:52:19 -04:00
+date: '2011-08-11T14:52:19.000+00:00'
 categories:
 - Enterprise
 - Print

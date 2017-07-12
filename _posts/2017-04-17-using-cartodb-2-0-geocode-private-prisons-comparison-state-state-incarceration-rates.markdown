@@ -1,7 +1,7 @@
 ---
 title: Using CartoDB to visualize the relationship between private prisons and incarceration
   rates
-date: 2017-04-17 16:08:00 -04:00
+date: '2017-04-17T20:08:00.000+00:00'
 categories:
 - Data Visualization
 - Mapping
