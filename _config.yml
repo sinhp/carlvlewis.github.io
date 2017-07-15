@@ -5,6 +5,7 @@ collections:
   portfolio:
     title: Portfolio
     output: true
+    permalink: /:collection/:path/
   posts:
     title: Posts
     output: true
@@ -84,7 +85,7 @@ social:
 analytics:
   provider: true
   google:
-    tracking_id: x
+    tracking_id: UA-102583563-1
 author:
   name: Carl V. Lewis
   avatar: http://cvlassets.s3.amazonaws.com/1697569.jpg
@@ -100,7 +101,7 @@ author:
   facebook: 
   foursquare: 
   github: carlvlewis
-  google_plus: 
+  google_plus: carlvlewis
   keybase: carlvlewis
   instagram: carlvlewis
   lastfm: 
@@ -113,7 +114,7 @@ author:
   steam: 
   tumblr: 
   twitter: carlvlewis
-  vine: 
+  vine:
   weibo: 
   youtube: 
 include:
