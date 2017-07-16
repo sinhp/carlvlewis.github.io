@@ -14,6 +14,7 @@ tags:
 - d3js, svg, javascript
 add_to_portfolio:
 - true
+type: page
 ---
 
 ![](https://cvlassets.s3.amazonaws.com/Screen%20Shot%202017-07-10%20at%209.41.17%20PM.png)
