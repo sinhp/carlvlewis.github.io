@@ -1,5 +1,5 @@
 ---
-title: Visualizations
+title: News-Writing/Reporting
 permalink: "/visualizations/"
 layout: single
 type: pages
