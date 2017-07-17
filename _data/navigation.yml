@@ -8,9 +8,11 @@ main:
   url: "/resources/"
 - title: Testimonials
   url: "/testimonials/"
-- title: Writing
-  url: "/writing/"
+- title: News Writing
+  url: "/news-writing/"
+- title: Research
+  url: "/research/"
 - title: Visualizations
-  url: "/portfolio/"
+  url: "/visualization/"
 - title: Other Projects
   url: "/other-projects/"
