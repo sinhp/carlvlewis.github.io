@@ -4,7 +4,6 @@ permalink: "/reporting/"
 layout: single
 type: pages
 author_profile: true
-ta
 ---
 
 Below you'll find a sampling of my news writing and reporting work. To see a more thorough archive, click [here][1].
