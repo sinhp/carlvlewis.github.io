@@ -6,3 +6,33 @@ type: pages
 author_profile: true
 ---
 
+<div class="container sheetsu-grid-big">
+  <div class="row" sheetsu="74407d14b934">
+    <div class="col-md-6 element">
+      <img class="image" src="{{image}}" alt="image">
+      <h2>{{title}}</h2>
+      <p>{{text}}</p>
+    </divk>
+  </div>
+</div>
+
+<style>@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+.sheetsu-grid-big * .image {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.sheetsu-grid-big * .element.col-md-6:nth-child(2n+1){
+    clear: left;
+}
+
+.sheetsu-grid-big * .element {
+  margin-bottom: 20px;
+}
+
+.sheetsu-grid-big * .element p {
+  min-height: 40px;
+}
+</style>
+<script src="//load.sheetsu.com?a=74407d14b934&s=2"></script>
