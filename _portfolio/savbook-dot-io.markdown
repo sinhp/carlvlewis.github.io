@@ -4,6 +4,7 @@ excerpt: "A one-stop mobile web app for neighborhood and community resources<br/
 collection: portfolio
 author_profile: true
 layout: single
+teaser: '/_uploads/500x300.png'
 date: '2017-07-12T10:07:12.931+00:00'
 ---
 
