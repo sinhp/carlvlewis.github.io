@@ -4,7 +4,7 @@ excerpt: "A one-stop mobile web app for neighborhood and community resources<br/
 collection: portfolio
 author_profile: true
 layout: single
-teaser: "https://cvlassets.s3.amazonaws.com/savbook.png"
+teaser-image: "https://cvlassets.s3.amazonaws.com/savbook.png"
 date: '2017-07-12T10:07:12.931+00:00'
 ---
 
