@@ -1,6 +1,6 @@
 ---
 title: savbook.io
-excerpt: "A one-stop mobile web app for neighborhood and community resources<br/><img src='/_uploads/500x300.png'>"
+excerpt: "<img src='/_uploads/500x300.png'><br/>A one-stop mobile web app for neighborhood and community resources."
 collection: portfolio
 author_profile: true
 layout: single
