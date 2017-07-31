@@ -1,6 +1,7 @@
 ---
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+layout: default
 header:
   image: "assets/images/foo-bar-identity.jpg"
   teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity-th.jpg
