@@ -1,9 +1,14 @@
 ---
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-layout: single
-type: portfolio
-author_profile: true
+defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 header:
   image: "assets/images/foo-bar-identity.jpg"
   teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity-th.jpg
