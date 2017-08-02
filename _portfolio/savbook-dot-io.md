@@ -9,16 +9,6 @@ defaults:
       layout: single
       author_profile: false
       share: true
-header:
-  image: "assets/images/foo-bar-identity.jpg"
-  teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/unsplash-gallery-image-1.jpg
     image_path: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/unsplash-gallery-image-1-th.jpg
