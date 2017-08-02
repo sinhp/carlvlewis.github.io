@@ -10,7 +10,6 @@ defaults:
       author_profile: true
       share: true
 header:
-  image: https://s3.amazonaws.com/cvlassets/savbookteaser.png
   teaser: https://s3.amazonaws.com/cvlassets/savbookteaser.png
 sidebar:
   - title: "Role"
