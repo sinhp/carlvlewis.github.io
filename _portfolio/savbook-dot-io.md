@@ -10,7 +10,7 @@ defaults:
       author_profile: false
       share: true
 header:
-  image: "https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity.jpg"
+  image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity.jpg
   teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
