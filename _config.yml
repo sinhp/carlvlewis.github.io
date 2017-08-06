@@ -27,7 +27,7 @@ locale: en
 title_separator: "-"
 name: "@carlvlewis"
 url: https://carlvlewis.github.io
-baseurl: http://datavisualizi.ng
+baseurl: https://carlvlewis.github.io
 repository: carlvlewis/carlvlewis.github.io
 teaser: 
 words_per_minute: 50
