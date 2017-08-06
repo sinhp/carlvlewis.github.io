@@ -3,7 +3,7 @@ title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: "/uploads/500x300.png"
-  teaser: "uploads/500x300.png"
+  teaser: "/uploads/500x300.png"
 sidebar:
   - title: "Role"
     image: https://placehold.it/350x250
