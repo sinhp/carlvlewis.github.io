@@ -10,8 +10,8 @@ main:
   url: "/testimonials/"
 - title: News Writing
   url: "/reporting/"
-- title: Visualizations
-  url: "/visualizations/"
+- title: Portfolio
+  url: "/Portfolio/"
 - title: Research
   url: "/research/"
 - title: Other Projects
