@@ -5,7 +5,7 @@ collections:
   portfolio:
     title: Portfolio
     output: true
-    permalink: /portfolio/:path/
+    permalink: "/:collection/:path/"
   posts:
     title: Posts
     output: true
