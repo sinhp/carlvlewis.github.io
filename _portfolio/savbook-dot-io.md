@@ -3,7 +3,7 @@ title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 defaults:
   - scope:
-      path: ""
+      path: "savbook"
       type: portfolio
     values:
       layout: single
