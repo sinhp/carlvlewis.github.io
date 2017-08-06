@@ -3,7 +3,7 @@ title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 defaults:
   - scope:
-      path: "savbook"
+      path: ""
       type: portfolio
     values:
       layout: single
@@ -14,7 +14,7 @@ header:
   teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
