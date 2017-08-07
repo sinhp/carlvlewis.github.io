@@ -2,6 +2,7 @@
 title: "Open Budget Savannah"
 excerpt: "The City of Savannah spends nearly $378 million annually to fund city services and programs."
 collection: portfolio
+permalink: /savbook/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
