@@ -2,17 +2,17 @@
 main:
 - title: About
   url: "/about/"
-- title: CV
-  url: http://cv.carlvlewis.net
-- title: Resources
-  url: "/resources/"
-- title: Testimonials
-  url: "/testimonials/"
 - title: News Writing
   url: "/reporting/"
 - title: Portfolio
   url: "/portfolio/"
+- title: Testimonials
+  url: "/testimonials/"
+- title: Resources
+  url: "/resources/"
 - title: Research
   url: "/research/"
+- title: CV
+  url: http://cv.carlvlewis.net
 - title: Other Projects
   url: "/other-projects/"
