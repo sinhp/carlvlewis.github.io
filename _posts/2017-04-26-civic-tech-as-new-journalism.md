@@ -2,6 +2,7 @@
 title: Surveying the intersectional identity of the data journalism and civic-tech
   ecosystems
 date: '2017-04-27T03:28:00.000+00:00'
+excerpt: An explication of the interdisciplinary overlaps and differences between recent technology-driven social change movmements
 comments: true
 ---
 
