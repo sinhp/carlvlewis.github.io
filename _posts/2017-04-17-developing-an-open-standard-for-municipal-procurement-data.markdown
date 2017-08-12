@@ -1,5 +1,6 @@
 ---
 title: Developing an open standard for municipal procurement data
+excerpt: When we talk about redundancy and inefficiency in municipal governments, we almost always come back to the complex topic of procurement. That's why we need open standards for procurment policies more than ever.
 date: '2017-04-17T04:35:00.000+00:00'
 ---
 
