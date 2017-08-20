@@ -6,7 +6,9 @@ type: pages
 author_profile: true
 ---
 
-Below you'll find a sampling of my news writing and reporting work. To see a more thorough archive, click [here][1].
+Before I got into programming, visualization, data storytelling and civic technology, I was a shoeleather beat news reporter pumping out 7-9 pieces of copy per week. My reporting career started at 17 while working as a summer cops reporter for [my hometown newspaper](http://wjhnews.com/) in South Georgia. At 18, I started as a stringer for [The Macon Telegraph](http://macon.com) and became the first ever online editor for my college newspaper, [The Mercer Cluster](http://mercercluster.com/), where I built the publication's first website and developed a restructured digital workflow. At 20, while studying abroad, I served two terms as the News Editor of [The Oxford Student](http://oxfordstudent.com). At 23, following graduate school, I took the helm as  Digtial Editor for the [Savannah Morning News](http://savannahnow.com), and at 25, I joined the team of the [St. Louis Post-Dispatch](http://stltoday.com) as the publication's Senior Programmer for News Graphics.
+
+Here are a smattering of the pieces I produced as a print reporter. To see a more thorough archive, click [here][1].
 
 #### Breaking (Deadline)
 
