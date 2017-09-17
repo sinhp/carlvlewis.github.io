@@ -33,7 +33,7 @@ words_per_minute: 50
 comments:
   provider: disqus
   disqus:
-    shortname: 
+    shortname: carlvlewis
     Key: 
   discourse:
     server: 
