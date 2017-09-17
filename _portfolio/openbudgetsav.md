@@ -5,7 +5,6 @@ excerpt: "The City of Savannah spends nearly $378 million annually to fund city 
 collection: portfolio
 permalink: /portfolio/savbook/
 header:
-  teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
