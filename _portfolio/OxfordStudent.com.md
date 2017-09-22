@@ -15,7 +15,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url:
+  - url: /portfolio/oxford.png
     image_path:
     alt:
   - url:
