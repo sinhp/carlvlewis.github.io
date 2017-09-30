@@ -2,6 +2,7 @@
 layout: archive
 title: "Happy with your municipal court? Maybe that’s because it’s an affluent community"
 excerpt: ""
+tags: INTERACTIVES
 date: 2016-04-02
 collection: portfolio
 permalink: /portfolio/municipal-court/

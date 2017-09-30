@@ -26,4 +26,6 @@ gallery:
     alt:
 ---
 
+[Click here](https://nahjatcolumbiajschool.wordpress.com/) to see the site live.
+
 {% include gallery caption="" %}

@@ -3,6 +3,7 @@ layout: archive
 title: "Do Savannah HTML5 site and mobile apps"
 excerpt: "Project Description: Led digital brand makeover and development of mobile app for iOS and Android devices."
 collection: portfolio
+tags: APP-DEVELOPMENT RESPONSIVE-WEB-DEVELOPMENT
 date: 2013-06-16
 permalink: /portfolio/do-savannah/
 header:

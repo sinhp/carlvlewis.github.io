@@ -2,6 +2,7 @@
 layout: archive
 title: "SavBook.io"
 date: 2017-05-07
+tags: OPEN-SOURCE-PROJECTS RESPONSIVE-WEB-DEVELOPMENT SIDE-PROJECTS
 excerpt: "[SavBook.io](http://savbook.io/) is the result of a hacknight I led for [Open Savannah](https://opensavannah.org/)"
 collection: portfolio
 permalink: /portfolio/SavBook.io/

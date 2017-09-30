@@ -3,6 +3,7 @@ layout: archive
 title: "Where to go to get the best view of the 2017 total solar eclipse"
 excerpt: "In 17 months, Missourians and much of the country will have the opportunity to see a total solar eclipse"
 collection: portfolio
+tags: D3.JS INTERACTIVES
 date: 2016-05-04
 permalink: /portfolio/solar/
 header:

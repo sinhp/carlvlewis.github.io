@@ -3,6 +3,7 @@ layout: archive
 title: "Northpoint Industrial"
 excerpt: "Designed brand presence, logo, website and marketing materials for [Northpoint Industrial.](http://northpointind.com/)"
 collection: portfolio
+tags: RESPONSIVE-WEB-DEVELOPMENT SIDE-PROJECTS
 permalink: /portfolio/northPoint/
 date: 2016-12-20
 header:

@@ -4,6 +4,7 @@ title: "cvStrap"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/cvStrap/
+tags: OPEN-SOURCE PROJECTS
 date: 2015-05-09
 header:
   teaser: /portfolio/cv.png
@@ -28,4 +29,4 @@ gallery:
 
 {% include gallery caption="" %}
 
-[Click here to view the project live>>](http://carlvlewis2.wpengine.com/dmchallenge)
+[Click here to view the project live>>](http://datavisualizi.ng/cvStrap/)

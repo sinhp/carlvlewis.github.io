@@ -4,6 +4,7 @@ title: "Mapping Federal Firearms Licenses"
 excerpt: "This map, originally published on [savannahnow.com](http://savannahnow.com/)"
 collection: portfolio
 permalink: /portfolio/federal-mapping/
+tags: DATA-VIZ
 date: 2014-06-22
 header:
   teaser: /portfolio/federal.png

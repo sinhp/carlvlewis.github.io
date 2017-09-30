@@ -3,6 +3,7 @@ layout: archive
 title: "Solving the Puzzle: Autism in NYC Schools"
 excerpt: "A project I developed for my data visualization seminar on autism in New York City schools"
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES
 permalink: /portfolio/autism/
 date: 2012-05-18
 header:
@@ -26,6 +27,6 @@ gallery:
     alt:
 ---
 
-A project I developed for my data visualization seminar on autism in New York City schools. See [project here](http://carlvlewis2.wpengine.com/solvingthepuzzle/).
+A project I developed for my data visualization seminar on autism in New York City schools. See [project here](http://carlvlewis.net/solvingthepuzzle/index.html).
 
 {% include gallery caption="" %}

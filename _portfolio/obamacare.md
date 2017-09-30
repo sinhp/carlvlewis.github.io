@@ -4,6 +4,7 @@ title: "Interactive: How average premiums under ObamaCare are panning out"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/obamacare/
+tags: DATA-VIZ INTERACTIVES
 date: 2014-05-16
 header:
   teaser: /portfolio/obamacare.png

@@ -3,6 +3,7 @@ layout: archive
 title: "dataviz.tools"
 excerpt: "[dataviz.tools](http://dataviz.tools/) is a side-project in which I condensed my bookmark stash of 974 tools/resources"
 collection: portfolio
+tags: DATA-VIZ OPEN-SOURCE-PROJECTS SIDE-PROJECTS
 date: 2017-02-09
 permalink: /portfolio/dataviz.tools/
 header:

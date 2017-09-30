@@ -4,6 +4,7 @@ title: "Mapping the Vote: How Chatham County Cast Its Ballots"
 excerpt: ""
 date: 2016-12-14
 collection: portfolio
+tags: INTERACTIVES NEWS-APPS
 permalink: /portfolio/cast-ballots/
 header:
   teaser: /portfolio/ballots.png

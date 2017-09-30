@@ -3,6 +3,7 @@ layout: archive
 title: "INTERACTIVE: Search Savannah-Chatham’s Restaurant Inspection Database"
 excerpt: "I worked with the Chatham County Health Department, which serves a population of more than 420,000 residents"
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES NEWS-APPS
 date: 2012-11-12
 permalink: /portfolio/musicwithmsg.com/
 header:

@@ -3,6 +3,7 @@ layout: archive
 title: "Predicted Ebola cases by 2030 by current trajectory, CDC"
 excerpt: "Although perhaps not the most visually succinct way of displaying trend data, the use of an animated area graph in this d3.js chart"
 collection: portfolio
+tags: D3.JS DATA-VIZ
 permalink: /portfolio/ebola/
 date: 2015-01-31
 header:

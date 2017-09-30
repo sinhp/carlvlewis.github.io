@@ -3,6 +3,7 @@ layout: archive
 title: "U.S. Private Prisons by Owner and State Incarceration Rate"
 excerpt: ""
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES NEWS-APPS RESPONSIVE-WEB-DEVELOPMENT
 date: 2014-07-16
 permalink: /portfolio/prisons/
 header:

@@ -3,6 +3,7 @@ layout: archive
 title: "Cleaning Up a Country: A Data-Driven Examination of Ethiopia’s Growing Sanitation Issues"
 excerpt: "Embedded above is a pure JavaScript-powered flowchart from a [team project](http://carlvlewis2.wpengine.com/dmchallenge) that was part of Columbia University’s Tow Center"
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES MULTIMEDIA NEWS-APPS
 date: 2014-07-01
 permalink: /portfolio/MercerCluster.com/
 header:

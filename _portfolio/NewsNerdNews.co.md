@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "NewsNerdNews.co"
-excerpt: ""
+excerpt: "[NewsNerdNews.co](http://newsnerdnews.co/) – A “hacker-news” style website for those working at the intersection of journalism and technology"
 date: 2017-01-04
 collection: portfolio
+tags: DESIGN RESPONSIVE-WEB-DEVELOPMENT SIDE-PROJECTS
 permalink: /portfolio/NewsNerdNews.co/
 header:
   teaser: /portfolio/nerd.png

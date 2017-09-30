@@ -4,6 +4,7 @@ title: "SavannahNow St. Patrick’s Day App 2013"
 excerpt: "Powered by Savannah Morning News & SavannahNow.com, this is the must-have app for anyone attending Savannah’s 2013 St. Patrick’s Day Parade and Festival."
 collection: portfolio
 date: 2013-06-08
+tags: APP-DEVELOPMENT
 permalink: /portfolio/st-patric/
 header:
   teaser: /portfolio/patrik1.jpg

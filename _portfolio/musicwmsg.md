@@ -4,6 +4,7 @@ title: "Audio Slideshow: “Music With a Message”"
 excerpt: ""
 collection: portfolio
 date: 2012-03-29
+tags: MULTIMEDIA
 permalink: /portfolio/musicwithmsg.com/
 header:
   teaser: /portfolio/music.png

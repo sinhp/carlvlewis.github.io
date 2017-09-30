@@ -3,8 +3,9 @@ layout: archive
 title: "INTERACTIVE: 2012 Michigan GOP primary results by county"
 excerpt: "This map displays the results from Tuesday night’s Michigan GOP primary by county."
 collection: portfolio
+tags: DATA-VIZ
 date: 2012-03-30
-permalink: /portfolio/OxfordStudent.com/
+permalink: /portfolio/primary-results/
 header:
   teaser: /portfolio/mich.png
 sidebar:
