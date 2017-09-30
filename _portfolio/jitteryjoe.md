@@ -4,6 +4,7 @@ title: "Poster Design: “Jittery Joe’s Presents”"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/jittery-joe/
+tags: DESIGN
 date: 2012-04-09
 header:
   teaser: /portfolio/jittery.jpg

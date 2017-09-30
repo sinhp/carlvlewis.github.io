@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- Portfolio Item page -->
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -22,5 +24,10 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+
+    {% if site.tag_archive_portfolio.type and page.tags[0] %}
+      {% include tag-list-portfolio.html %}
+    {% endif %}
+
   </div>
 </div>

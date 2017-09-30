@@ -4,6 +4,7 @@ title: "FriendlyExpress.com"
 excerpt: ""
 collection: portfolio
 date: 2012-04-01
+tags: RESPONSIVE-WEB-DEVELOPMENT
 permalink: /portfolio/FriendlyExpress.com/
 header:
   teaser: /portfolio/frndexp.png
@@ -25,5 +26,7 @@ gallery:
     image_path:
     alt:
 ---
+
+[Click here](https://friendlyexpress.com/) to see the site live.
 
 {% include gallery caption="" %}

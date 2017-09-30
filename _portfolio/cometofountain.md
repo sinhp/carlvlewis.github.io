@@ -4,6 +4,7 @@ title: "Documentary: “Come to the Fountain: Homelessness in Macon, Ga.”"
 excerpt: "For a city with a modest population of around 100,000"
 collection: portfolio
 date: 2012-03-31
+tags: MULTIMEDIA
 permalink: /portfolio/MercerCluster.com/
 header:
   teaser: /portfolio/fountain.png

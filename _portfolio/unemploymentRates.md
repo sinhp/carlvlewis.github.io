@@ -2,6 +2,7 @@
 layout: archive
 title: "INTERACTIVE: Measuring up metro Savannah unemployment trends against the rest of Georgia"
 excerpt: ""
+tags: DATA-VIZ
 date: 2014-06-26
 collection: portfolio
 permalink: /portfolio/unemployment-trends/

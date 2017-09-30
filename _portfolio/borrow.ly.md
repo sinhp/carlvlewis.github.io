@@ -5,6 +5,7 @@ excerpt: ""
 collection: portfolio
 date: 2017-01-04
 permalink: /portfolio/borrow.ly/
+tags: APP-DEVELOPMENT RESPONSIVE-WEB-DEVELOPMENT SIDE-PROJECTS
 header:
   teaser: /portfolio/borrow.png
 sidebar:
@@ -25,5 +26,7 @@ gallery:
     image_path: /images/portfolio/bor3.png
     alt:
 ---
+
+See [project here](https://twitter.com/borrowly?lang=en).
 
 {% include gallery caption="" %}

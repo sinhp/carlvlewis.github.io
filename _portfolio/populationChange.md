@@ -4,6 +4,7 @@ title: "INTERACTIVE: Population change from 2010 to 2011"
 excerpt: "This diverging chloropleth map shows the percent change in population of all 159 Georgia counties between 2010 and 2011"
 collection: portfolio
 date: 2012-06-03
+tags: DATA-VIZ INTERACTIVES
 permalink: /portfolio/population-change/
 header:
   teaser: /portfolio/population.png

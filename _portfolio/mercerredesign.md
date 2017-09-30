@@ -3,6 +3,7 @@ layout: archive
 title: "‘The Mercer Cluster’ print edition redesign"
 excerpt: ""
 collection: portfolio
+tags: DESIGN
 date: 2012-04-09
 permalink: /portfolio/mercerRedesign/
 header:

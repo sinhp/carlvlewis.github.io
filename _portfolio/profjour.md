@@ -5,6 +5,7 @@ excerpt: ""
 collection: portfolio
 date: 2012-04-01
 permalink: /portfolio/socprofjor.com/
+tags: MULTIMEDIA
 header:
   teaser: /portfolio/jour.png
 sidebar:
@@ -27,3 +28,5 @@ gallery:
 ---
 
 {% include gallery caption="" %}
+
+[Click here](http://spj.jrn.columbia.edu/) to see the site live.

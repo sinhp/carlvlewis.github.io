@@ -1,7 +1,9 @@
 ---
 layout: archive
 date: 2017-05-24
+tags: CIVIC-TECH SIDE-PROJECTS
 title: "opensavannah.org"
+tags: CIVIC-TECH SIDE-PROJECTS
 excerpt: "As the founding brigade captain for [Open Savannah](https://opensavannah.org/), a Code for America brigade, I helped customize and"
 collection: portfolio
 permalink: /portfolio/opensavannah/

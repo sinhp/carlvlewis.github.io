@@ -2,6 +2,7 @@
 layout: archive
 title: "Where the St. Louis Cardinals are Most Popular"
 excerpt: ""
+tags: INTERACTIVES NEWS-APPS
 collection: portfolio
 date: 2016-06-06
 permalink: /portfolio/cardinals/

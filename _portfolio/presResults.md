@@ -5,6 +5,7 @@ excerpt: "The latest delegate counts show that Mitt Romney nearly doubled his de
 collection: portfolio
 date: 2012-04-01
 permalink: /portfolio/pres-results/
+tags: DATA-VIZ
 header:
   teaser: /portfolio/pres.png
 sidebar:

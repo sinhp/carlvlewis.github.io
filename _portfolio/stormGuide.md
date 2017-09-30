@@ -3,6 +3,7 @@ layout: archive
 title: "Storm Guide by savannahnow.com"
 excerpt: "For the 2013 hurricane season, I built a native iOS and Android app with an accompanying HTML5 "
 collection: portfolio
+tags: APP-DEVELOPMENT
 date: 2013-06-14
 permalink: /portfolio/storm-savannah-now/
 header:

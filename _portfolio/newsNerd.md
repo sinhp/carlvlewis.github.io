@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Side Project: NewsNerdNews.co"
-excerpt: ""
+excerpt: "A Reddit/Hacker News for digital journalists."
+tags: SIDE-PROJECTS
 collection: portfolio
 date: 2015-01-05
 permalink: /portfolio/FriendlyExpress.com/

@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Savannah Morning News Mobile"
-excerpt: ""
+excerpt: "For my final project at [Savannah Morning News](http://savannahnow.com/), my team undertook a massive two-week"
+tags: APP-DEVELOPMENT NEWS-APPS
 date: 2014-07-13
 collection: portfolio
 permalink: /portfolio/morning-news-mobile/

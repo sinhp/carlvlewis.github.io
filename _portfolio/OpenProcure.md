@@ -3,6 +3,7 @@ layout: archive
 title: "OpenProcure.Us"
 excerpt: "OpenProcure lists public agencies and their respective procurement thresholds. This guide identifies the dollar amount under"
 collection: portfolio
+tags: OPEN-SOURCE PROJECTS
 date: 2015-11-06
 permalink: /portfolio/OpenProcure/
 header:

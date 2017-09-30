@@ -4,6 +4,7 @@ title: "INTERACTIVE: A Sprawling Network of Syrian Aid"
 excerpt: "An interactive HTML5 [flow chart](http://carlvlewis2.wpengine.com/syria) that accompanies Daniel Medina’s"
 collection: portfolio
 date: 2012-04-16
+tags: INTERACTIVES
 permalink: /portfolio/serian-aid/
 header:
   teaser: /portfolio/sprawling.jpg

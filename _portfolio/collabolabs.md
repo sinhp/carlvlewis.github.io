@@ -26,6 +26,6 @@ gallery:
     alt:
 ---
 
-Project URL: [Here](http://CollaboLabs.co)
+Project URL: [Here](https://www.collabolab.co.nz)
 
 {% include gallery caption="" %}

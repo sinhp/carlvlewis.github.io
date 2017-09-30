@@ -2,6 +2,7 @@
 layout: archive
 title: "Chatham Commission advance payments, reimbursements for travel vary widely"
 excerpt: ""
+tags: DATA-VIZ INTERACTIVES
 date: 2014-06-26
 collection: portfolio
 permalink: /portfolio/chatham/

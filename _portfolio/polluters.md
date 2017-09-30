@@ -3,6 +3,7 @@ layout: archive
 title: "INTERACTIVE: Who are the biggest polluters in Georgia — and why?"
 excerpt: ""
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES NEWS-APPS
 date: 2013-06-14
 permalink: /portfolio/polluting-georgia/
 header:
