@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "INTERACTIVE: Measuring up metro Savannah unemployment trends against the rest of Georgia"
-excerpt: ""
+excerpt: "A fairly basic, straightforward d3.js line chart built in 2014 comparing unemployment trends in Savannah with those of other Georgia cities."
 tags: DATA-VIZ
 date: 2014-06-26
 collection: portfolio
@@ -12,9 +12,9 @@ sidebar:
   - title: "Role"
     image: /images/portfolio/unemployment.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Designer, data wrangler, d3.js developer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Create an interactive chart of unemplyment data to accompany a print story under deadline, with data being received at 4 p.m. and deadline at 6:30 p.m."
 gallery:
   - url:
     image_path:
