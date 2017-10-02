@@ -7,7 +7,7 @@ permalink: /portfolio/cvStrap/
 tags: OPEN-SOURCE PROJECTS
 date: 2015-05-09
 header:
-  teaser: /portfolio/cv.png
+  teaser: /portfolio/cv-sm.png
 sidebar:
   - title: "Role"
     image: /images/portfolio/cv.png
