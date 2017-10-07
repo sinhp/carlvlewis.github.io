@@ -1,28 +1,27 @@
 ---
-title: 'INTERACTIVE: Who are the biggest polluters in Georgia — and why?'
-date: 2013-06-14 00:00:00 -04:00
-permalink: "/portfolio/polluting-georgia/"
-tags:
-- DATA-VIZ
-- INTERACTIVES
-- NEWS-APPS
 layout: archive
-excerpt: ''
+title: "INTERACTIVE: Who are the biggest polluters in Georgia — and why?"
+excerpt: ""
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES NEWS-APPS
+date: 2013-06-14
+permalink: /portfolio/polluting-georgia/
 header:
-  teaser: "/portfolio/polluting.png"
+  teaser: /portfolio/polluting.png
 sidebar:
-- title: Role
-  image: "/images/portfolio/polluting.png"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/polluting.png
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: "/images/portfolio/polluting.png"
-  image_path: "/images/portfolio/polluting.png"
-  alt: Who are the biggest polluters in Georgia
+  - url: /images/portfolio/polluting.png
+    image_path: /images/portfolio/polluting.png
+    alt: Who are the biggest polluters in Georgia
+
 ---
+
 
 {% include gallery caption="" %}
 

@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial: Building a hover-enabled map using Tilemill'
-date: 2013-08-01 15:35:48 -04:00
+date: '2013-08-01T19:35:48.000+00:00'
 ---
 
 <p><em>This is the first of two tutorials on adding hover interactions to interactive maps<em> using free, open-source tools.</em></em></p>

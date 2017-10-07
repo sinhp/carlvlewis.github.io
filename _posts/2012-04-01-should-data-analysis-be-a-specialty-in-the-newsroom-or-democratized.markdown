@@ -1,6 +1,6 @@
 ---
 title: Should data viz be a specialty or a commodity skill in the newsroom?
-date: 2012-04-01 16:32:56 -04:00
+date: '2012-04-01T20:32:56.000+00:00'
 categories:
 - Blog
 - Data Visualization

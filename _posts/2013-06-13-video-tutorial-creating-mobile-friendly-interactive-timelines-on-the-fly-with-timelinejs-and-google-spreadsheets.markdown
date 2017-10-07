@@ -1,7 +1,7 @@
 ---
 title: 'Tutorial: Creating mobile-friendly interactive timelines under deadline with
   Google Spreadsheets'
-date: 2013-06-13 19:27:39 -04:00
+date: '2013-06-13T23:27:39.000+00:00'
 ---
 
 <p><iframe src="https://player.vimeo.com/video/67050820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

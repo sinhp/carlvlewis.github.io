@@ -1,6 +1,6 @@
 ---
 title: 'Critique: Michigan GOP Primary Visualization, via HuffPo'
-date: 2012-02-29 06:20:53 -05:00
+date: '2012-02-29T11:20:53.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---

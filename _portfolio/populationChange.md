@@ -1,33 +1,30 @@
 ---
-title: 'INTERACTIVE: Population change from 2010 to 2011'
-date: 2012-06-03 00:00:00 -04:00
-permalink: "/portfolio/population-change/"
-tags:
-- DATA-VIZ
-- INTERACTIVES
 layout: archive
-excerpt: This diverging chloropleth map shows the percent change in population of
-  all 159 Georgia counties between 2010 and 2011
+title: "INTERACTIVE: Population change from 2010 to 2011"
+excerpt: "This diverging chloropleth map shows the percent change in population of all 159 Georgia counties between 2010 and 2011"
 collection: portfolio
+date: 2012-06-03
+tags: DATA-VIZ INTERACTIVES
+permalink: /portfolio/population-change/
 header:
-  teaser: "/portfolio/population.png"
+  teaser: /portfolio/population.png
 sidebar:
-- title: Role
-  image: "/images/portfolio/population.png"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/population.png
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
 ---
 
 This diverging chloropleth map shows the percent change in population of all 159 Georgia counties between 2010 and 2011, according to U.S. Census Estimates released May 17, 2012. The darker the shade of green, the greater the increase in population. The darker shade red, the greater the decrease in population. Hover over each county to see specific numbers, or zoom in to get a closer view.

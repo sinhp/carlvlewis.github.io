@@ -1,6 +1,6 @@
 ---
 title: 'Critique: "Salubrious Nation: a game-y look at U.S. health"'
-date: 2012-04-04 19:12:58 -04:00
+date: '2012-04-04T23:12:58.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---
