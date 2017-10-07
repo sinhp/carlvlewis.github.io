@@ -1,6 +1,6 @@
 ---
 title: Kingsbridge neighborhood undergoes Jewish revival
-date: '2011-12-20T14:27:38.000+00:00'
+date: 2011-12-20 09:27:38 -05:00
 categories:
 - Enterprise
 - Longform

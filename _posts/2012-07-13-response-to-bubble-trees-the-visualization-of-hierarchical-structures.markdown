@@ -1,6 +1,6 @@
 ---
 title: What we can learn about charts from The WSJ Guide to Information Graphics
-date: '2012-07-13T15:46:38.000+00:00'
+date: 2012-07-13 11:46:38 -04:00
 categories:
 - Blog
 - Data Visualization

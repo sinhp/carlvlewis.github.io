@@ -1,7 +1,7 @@
 ---
 title: Defending interactive visualization and data journalism against the cult of
   the static and the simplistic
-date: '2017-04-17T20:08:00.000+00:00'
+date: 2017-04-17 16:08:00 -04:00
 categories:
 - Data Visualization
 tags:

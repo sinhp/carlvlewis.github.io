@@ -1,8 +1,7 @@
 ---
 title: Using CartoDB to visualize the relationship between private prisons and incarceration
   rates
-date: '2017-04-17T20:08:00.000+00:00'
-excerpt: The last post I wrote about CartoDB used the CartoDB API and Leaflet.js to produce a hover tooltip map of census data. Looking back, while it's quite useful to learn CartoDB's API, it's now possible to achieve those same visual cues and interactivity without spending time wading through complex, undocumented JavaScript.
+date: 2017-04-17 16:08:00 -04:00
 categories:
 - Data Visualization
 - Mapping
@@ -11,6 +10,10 @@ tags:
 - geocoding
 - geospatial
 - private-prisons
+excerpt: The last post I wrote about CartoDB used the CartoDB API and Leaflet.js to
+  produce a hover tooltip map of census data. Looking back, while it's quite useful
+  to learn CartoDB's API, it's now possible to achieve those same visual cues and
+  interactivity without spending time wading through complex, undocumented JavaScript.
 ---
 
 <p>The <a href="http://carlvlewis.net/visualizing-latest-census-estimates-using-cartodb-and-leaflet/" target="_blank">last post</a> I wrote about <a href="http://cartodb.com" target="_blank">CartoDB </a>used the CartoDB API and <a href="http://leaflet.js" target="_blank">Leaflet.js</a> to produce a hover tooltip map of census data. Looking back, while it's quite useful to learn CartoDB's API, it's now possible to achieve those same visual cues and interactivity without spending time wading through complex, undocumented JavaScript. You can now do everything I did <a href="http://carlvlewis.net/visualizing-latest-census-estimates-using-cartodb-and-leaflet/" target="_blank">here</a> using little more than CartoDB's frontend CMS.<!--more--></p>

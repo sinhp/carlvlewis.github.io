@@ -1,30 +1,31 @@
 ---
+title: Mapping Federal Firearms Licenses
+date: 2014-06-22 00:00:00 -04:00
+permalink: "/portfolio/federal-mapping/"
+tags:
+- DATA-VIZ
 layout: archive
-title: "Mapping Federal Firearms Licenses"
-excerpt: "This map, originally published on [savannahnow.com](http://savannahnow.com/)"
+excerpt: This map, originally published on [savannahnow.com](http://savannahnow.com/)
 collection: portfolio
-permalink: /portfolio/federal-mapping/
-tags: DATA-VIZ
-date: 2014-06-22
 header:
-  teaser: /portfolio/federal.png
+  teaser: "/portfolio/federal.png"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/federal.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/federal.png"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
 ---
 
 This map, originally published on [savannahnow.com](http://savannahnow.com/), shows all 32 businesses that have a federal firearms license in Chatham County, Ga.

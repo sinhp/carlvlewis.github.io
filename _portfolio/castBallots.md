@@ -1,30 +1,32 @@
 ---
+title: 'Mapping the Vote: How Chatham County Cast Its Ballots'
+date: 2016-12-14 00:00:00 -05:00
+permalink: "/portfolio/cast-ballots/"
+tags:
+- INTERACTIVES
+- NEWS-APPS
 layout: archive
-title: "Mapping the Vote: How Chatham County Cast Its Ballots"
-excerpt: ""
-date: 2016-12-14
+excerpt: ''
 collection: portfolio
-tags: INTERACTIVES NEWS-APPS
-permalink: /portfolio/cast-ballots/
 header:
-  teaser: /portfolio/ballots.png
+  teaser: "/portfolio/ballots.png"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/ballots.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/ballots.png"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
 ---
 
 <iframe width="580" height="500" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col24+from+1nTiI_hYpFVUZo2vOl1RF7VC3C4bmmt-WzUvbc88&amp;h=false&amp;lat=31.96362529081252&amp;lng=-81.05371071679691&amp;z=10&amp;t=1&amp;l=col24&amp;y=1&amp;tmplt=2"></iframe>

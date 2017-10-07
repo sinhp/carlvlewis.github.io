@@ -1,6 +1,6 @@
 ---
 title: Making the case for the "post-platform" journalist
-date: '2014-06-16T02:38:27.000+00:00'
+date: 2014-06-15 22:38:27 -04:00
 ---
 
 <p><script class="speakerdeck-embed" src="//speakerdeck.com/assets/embed.js" async="" data-id="de2e5100d6f10131602d461b2c9fe8fa" data-ratio="1.77777777777778"></script><br />

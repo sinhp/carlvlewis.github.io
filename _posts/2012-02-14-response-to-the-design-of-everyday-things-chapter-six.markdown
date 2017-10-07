@@ -1,6 +1,6 @@
 ---
 title: Response to "The Design of Everyday Things," Chapter Six
-date: '2012-02-15T04:20:49.000+00:00'
+date: 2012-02-14 23:20:49 -05:00
 categories:
 - Data Visualization Thoughts
 ---

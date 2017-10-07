@@ -1,6 +1,6 @@
 ---
 title: Visualizing 2012 census estimates using CartoDB and Leaflet
-date: '2012-08-06T09:53:43.000+00:00'
+date: 2012-08-06 05:53:43 -04:00
 ---
 
 <p>I've been tinkering around with some new mapping tools lately, and figured I'd put them to good use by displaying the <a href="http://www.census.gov/popest/">2011-2012 population estimates</a> released last week by the U.S. Census Bureau. The inherently geographical nature of the census makes it a data set just begging to be mapped.</p>

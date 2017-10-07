@@ -1,6 +1,6 @@
 ---
 title: My recent family loss, and introducing Borrow.ly, my next adventure
-date: '2014-05-30T21:14:22.000+00:00'
+date: 2014-05-30 17:14:22 -04:00
 categories:
 - Blog
 ---
