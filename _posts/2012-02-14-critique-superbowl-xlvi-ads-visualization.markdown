@@ -1,6 +1,6 @@
 ---
 title: 'Critique: Superbowl XLVI ads visualization'
-date: '2012-02-15T02:02:48.000+00:00'
+date: 2012-02-14 21:02:48 -05:00
 categories:
 - Data Visualization Thoughts
 ---

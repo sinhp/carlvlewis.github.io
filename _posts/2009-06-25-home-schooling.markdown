@@ -1,6 +1,6 @@
 ---
 title: Home schooling
-date: '2009-06-25T16:28:31.000+00:00'
+date: 2009-06-25 12:28:31 -04:00
 categories:
 - Deadline
 - Print

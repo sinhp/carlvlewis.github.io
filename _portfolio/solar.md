@@ -1,30 +1,33 @@
 ---
+title: Where to go to get the best view of the 2017 total solar eclipse
+date: 2016-05-04 00:00:00 -04:00
+permalink: "/portfolio/solar/"
+tags:
+- D3.JS
+- INTERACTIVES
 layout: archive
-title: "Where to go to get the best view of the 2017 total solar eclipse"
-excerpt: "In 17 months, Missourians and much of the country will have the opportunity to see a total solar eclipse"
+excerpt: In 17 months, Missourians and much of the country will have the opportunity
+  to see a total solar eclipse
 collection: portfolio
-tags: D3.JS INTERACTIVES
-date: 2016-05-04
-permalink: /portfolio/solar/
 header:
-  teaser: /portfolio/solar.png
+  teaser: "/portfolio/solar.png"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/solar.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/solar.png"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
 ---
 
 # Tracing the path of the 2017 total solar eclipse

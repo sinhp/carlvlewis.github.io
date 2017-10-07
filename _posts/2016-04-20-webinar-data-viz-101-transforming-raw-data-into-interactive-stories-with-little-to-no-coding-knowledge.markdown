@@ -1,7 +1,7 @@
 ---
 title: Webinar-Data Viz 101 Transforming Raw Data Into Interactive Stories With Little
   To No Coding Knowledge
-date: '2016-04-20T06:09:00.000+00:00'
+date: 2016-04-20 02:09:00 -04:00
 ---
 
 <p>Just a quick note that I'll be teaching a webinar sponsored by PBS <a href="http://mediashift.org/2015/07/data-viz-101-how-to-transform-data-into-interactive-stories/">MediaShift</a> on data visualization basics at 1 p.m. today. Join in if you're interested.</p>

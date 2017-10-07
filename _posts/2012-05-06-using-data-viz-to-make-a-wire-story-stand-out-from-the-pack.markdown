@@ -1,6 +1,6 @@
 ---
 title: Using data-viz to make a wire story stand out from the pack
-date: '2012-05-06T19:44:13.000+00:00'
+date: 2012-05-06 15:44:13 -04:00
 categories:
 - Data Visualization
 - Data Visualization Thoughts

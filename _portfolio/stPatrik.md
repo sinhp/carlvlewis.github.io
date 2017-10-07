@@ -1,35 +1,36 @@
 ---
+title: SavannahNow St. Patrick’s Day App 2013
+date: 2013-06-08 00:00:00 -04:00
+permalink: "/portfolio/st-patric/"
+tags:
+- APP-DEVELOPMENT
 layout: archive
-title: "SavannahNow St. Patrick’s Day App 2013"
-excerpt: "Powered by Savannah Morning News & SavannahNow.com, this is the must-have app for anyone attending Savannah’s 2013 St. Patrick’s Day Parade and Festival."
+excerpt: Powered by Savannah Morning News & SavannahNow.com, this is the must-have
+  app for anyone attending Savannah’s 2013 St. Patrick’s Day Parade and Festival.
 collection: portfolio
-date: 2013-06-08
-tags: APP-DEVELOPMENT
-permalink: /portfolio/st-patric/
 header:
-  teaser: /portfolio/patrik1.jpg
+  teaser: "/portfolio/patrik1.jpg"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/patrik1.jpg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/patrik1.jpg"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url: /images/portfolio/patrik1.jpg
-    image_path: /images/portfolio/patrik1.jpg
-    alt: SavannahNow St. Patrick’s Day App 2013
-  - url: /images/portfolio/patrik2.jpg
-    image_path: /images/portfolio/patrik2.jpg
-    alt: SavannahNow St. Patrick’s Day App 2013
-  - url: /images/portfolio/patrik3.jpg
-    image_path: /images/portfolio/patrik3.jpg
-    alt: SavannahNow St. Patrick’s Day App 2013
-  - url: /images/portfolio/patrik4.jpg
-    image_path: /images/portfolio/patrik4.jpg
-    alt: SavannahNow St. Patrick’s Day App 2013
+- url: "/images/portfolio/patrik1.jpg"
+  image_path: "/images/portfolio/patrik1.jpg"
+  alt: SavannahNow St. Patrick’s Day App 2013
+- url: "/images/portfolio/patrik2.jpg"
+  image_path: "/images/portfolio/patrik2.jpg"
+  alt: SavannahNow St. Patrick’s Day App 2013
+- url: "/images/portfolio/patrik3.jpg"
+  image_path: "/images/portfolio/patrik3.jpg"
+  alt: SavannahNow St. Patrick’s Day App 2013
+- url: "/images/portfolio/patrik4.jpg"
+  image_path: "/images/portfolio/patrik4.jpg"
+  alt: SavannahNow St. Patrick’s Day App 2013
 ---
-
 
 {% include gallery caption="" %}
 

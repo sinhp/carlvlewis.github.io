@@ -1,30 +1,34 @@
 ---
+title: dataviz.tools
+date: 2017-02-09 00:00:00 -05:00
+permalink: "/portfolio/dataviz.tools/"
+tags:
+- DATA-VIZ
+- OPEN-SOURCE-PROJECTS
+- SIDE-PROJECTS
 layout: archive
-title: "dataviz.tools"
-excerpt: "[dataviz.tools](http://dataviz.tools/) is a side-project in which I condensed my bookmark stash of 974 tools/resources"
+excerpt: "[dataviz.tools](http://dataviz.tools/) is a side-project in which I condensed
+  my bookmark stash of 974 tools/resources"
 collection: portfolio
-tags: DATA-VIZ OPEN-SOURCE-PROJECTS SIDE-PROJECTS
-date: 2017-02-09
-permalink: /portfolio/dataviz.tools/
 header:
-  teaser: /portfolio/dataViz.png
+  teaser: "/portfolio/dataViz.png"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/dataViz.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/dataViz.png"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url: /images/portfolio/dataViz.png
-    image_path: /images/portfolio/dataViz.png
-    alt:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
+- url: "/images/portfolio/dataViz.png"
+  image_path: "/images/portfolio/dataViz.png"
+  alt: 
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
 ---
 
 {% include gallery caption="" %}
