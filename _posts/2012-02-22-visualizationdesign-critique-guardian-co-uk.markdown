@@ -1,6 +1,6 @@
 ---
 title: 'Visualization/design critique: Guardian.co.uk'
-date: 2012-02-22 06:57:13 -05:00
+date: '2012-02-22T11:57:13.000+00:00'
 categories:
 - Blog
 - Data Visualization Thoughts

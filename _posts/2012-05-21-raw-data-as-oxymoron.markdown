@@ -1,6 +1,6 @@
 ---
 title: Raw data as oxymoron
-date: 2012-05-21 22:05:32 -04:00
+date: '2012-05-22T02:05:32.000+00:00'
 ---
 
 <p>"Raw data is both an oxymoron and a bad idea; to the contrary, data should be cooked with care."

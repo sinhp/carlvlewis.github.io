@@ -1,6 +1,6 @@
 ---
 title: Opt-in tax credits give boon to midstate private schools.
-date: 2011-08-07 10:40:32 -04:00
+date: '2011-08-07T14:40:32.000+00:00'
 categories:
 - Enterprise
 - Print

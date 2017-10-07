@@ -1,6 +1,6 @@
 ---
 title: 'INTERACTIVE MAP: Bronx unemployment by neighborhood'
-date: 2012-01-02 06:08:09 -05:00
+date: '2012-01-02T11:08:09.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---
