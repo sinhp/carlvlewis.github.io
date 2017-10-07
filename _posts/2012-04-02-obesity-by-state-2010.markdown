@@ -1,6 +1,6 @@
 ---
 title: 'INTERACTIVE: Why is the South the most obese part of the country? Five theories'
-date: '2012-04-02T20:31:44.000+00:00'
+date: 2012-04-02 16:31:44 -04:00
 categories:
 - Blog
 - consumerjournalism

@@ -1,30 +1,31 @@
 ---
+title: 'Documentary: “Come to the Fountain: Homelessness in Macon, Ga.”'
+date: 2012-03-31 00:00:00 -04:00
+permalink: "/portfolio/MercerCluster.com/"
+tags:
+- MULTIMEDIA
 layout: archive
-title: "Documentary: “Come to the Fountain: Homelessness in Macon, Ga.”"
-excerpt: "For a city with a modest population of around 100,000"
+excerpt: For a city with a modest population of around 100,000
 collection: portfolio
-date: 2012-03-31
-tags: MULTIMEDIA
-permalink: /portfolio/MercerCluster.com/
 header:
-  teaser: /portfolio/fountain.png
+  teaser: "/portfolio/fountain.png"
 sidebar:
-  - title: "Role"
-    image: /images/portfolio/fountain.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Role
+  image: "/images/portfolio/fountain.png"
+  image_alt: logo
+  text: Designer, Front-End Developer
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
-  - url:
-    image_path:
-    alt:
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
+- url: 
+  image_path: 
+  alt: 
 ---
 
 <iframe src="https://player.vimeo.com/video/28446395" width="640" height="472" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

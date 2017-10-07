@@ -1,6 +1,6 @@
 ---
 title: Scott topples Marshall in 8th district congressional race
-date: '2010-11-03T07:19:18.000+00:00'
+date: 2010-11-03 03:19:18 -04:00
 categories:
 - Deadline
 - Print

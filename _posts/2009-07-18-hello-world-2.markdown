@@ -1,6 +1,6 @@
 ---
 title: Cochran home infested with estimated 1,000 bats
-date: '2009-07-18T10:07:07.000+00:00'
+date: 2009-07-18 06:07:07 -04:00
 categories:
 - Enterprise
 - Print

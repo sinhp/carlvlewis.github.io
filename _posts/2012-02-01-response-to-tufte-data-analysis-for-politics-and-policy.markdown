@@ -1,6 +1,6 @@
 ---
 title: Response to Tufte, "Data Analysis for Politics and Policy"
-date: '2012-02-01T10:59:25.000+00:00'
+date: 2012-02-01 05:59:25 -05:00
 categories:
 - Data Visualization Thoughts
 ---

@@ -1,6 +1,6 @@
 ---
 title: Landfill expansion opposed by some Twiggs County residents
-date: '2010-08-11T21:37:00.000+00:00'
+date: 2010-08-11 17:37:00 -04:00
 categories:
 - Enterprise
 - Print

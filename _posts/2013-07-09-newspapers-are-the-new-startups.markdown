@@ -1,6 +1,6 @@
 ---
 title: '"Newspapers are the new startups"'
-date: '2013-07-10T00:19:35.000+00:00'
+date: 2013-07-09 20:19:35 -04:00
 categories:
 - Blog
 - Media Business Models

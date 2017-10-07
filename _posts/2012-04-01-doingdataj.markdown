@@ -1,6 +1,6 @@
 ---
 title: 'Aron Pilholfer at #doingdataj'
-date: '2012-04-01T19:40:26.000+00:00'
+date: 2012-04-01 15:40:26 -04:00
 categories:
 - Blog
 - Data Visualization
