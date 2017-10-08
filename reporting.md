@@ -1,5 +1,5 @@
 ---
-title: News-Writing and Reporting
+title: News-Writing and Reporting  
 permalink: "/reporting/"
 layout: single
 type: pages

@@ -1,6 +1,6 @@
 ---
 title: Response to Norman, "Emotional Design"
-date: 2012-04-06 14:19:09 -04:00
+date: '2012-04-06T18:19:09.000+00:00'
 categories:
 - Data Visualization Thoughts
 ---

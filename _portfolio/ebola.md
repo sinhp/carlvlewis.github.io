@@ -1,33 +1,30 @@
 ---
-title: Predicted Ebola cases by 2030 by current trajectory, CDC
-date: 2015-01-31 00:00:00 -05:00
-permalink: "/portfolio/ebola/"
-tags:
-- D3.JS
-- DATA-VIZ
 layout: archive
-excerpt: Although perhaps not the most visually succinct way of displaying trend data,
-  the use of an animated area graph in this d3.js chart
+title: "Predicted Ebola cases by 2030 by current trajectory, CDC"
+excerpt: "Although perhaps not the most visually succinct way of displaying trend data, the use of an animated area graph in this d3.js chart"
 collection: portfolio
+tags: D3.JS DATA-VIZ
+permalink: /portfolio/ebola/
+date: 2015-01-31
 header:
-  teaser: "/portfolio/ebola.png"
+  teaser: /portfolio/ebola.png
 sidebar:
-- title: Role
-  image: "/images/portfolio/ebola.png"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/ebola.png
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
 ---
 
 <iframe src="http://carlvlewis.info/ebola_d3" width="100%" height="500px" scrolling="no" frameborder="no"></iframe>

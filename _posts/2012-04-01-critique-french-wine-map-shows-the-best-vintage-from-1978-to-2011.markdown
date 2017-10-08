@@ -1,6 +1,6 @@
 ---
 title: Critique, "French wine map shows the best vintage, from 1978 to 2011"
-date: 2012-04-01 20:18:00 -04:00
+date: '2012-04-02T00:18:00.000+00:00'
 categories:
 - Data Visualization
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'On Richard Boarman''s "Bubble Trees: The Visualization of Hierarchical Structure"'
-date: 2012-04-06 12:56:23 -04:00
+date: '2012-04-06T16:56:23.000+00:00'
 categories:
 - Data Visualization
 tags:
