@@ -1,6 +1,6 @@
 ---
 title: Eyes on the 'flies
-date: '2009-07-07T14:56:50.000+00:00'
+date: 2009-07-07 10:56:50 -04:00
 categories:
 - Enterprise
 - Print

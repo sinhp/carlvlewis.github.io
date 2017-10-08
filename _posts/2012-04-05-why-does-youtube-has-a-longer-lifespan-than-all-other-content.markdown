@@ -1,6 +1,6 @@
 ---
 title: Why does YouTube have a longer lifespan than other platforms?
-date: '2012-04-05T13:04:15.000+00:00'
+date: 2012-04-05 09:04:15 -04:00
 categories:
 - Blog
 - Data Visualization Thoughts
