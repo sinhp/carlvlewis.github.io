@@ -1,30 +1,29 @@
 ---
-title: 'INTERACTIVE: The 12 Percent.'
-date: 2012-04-01 00:00:00 -04:00
-permalink: "/portfolio/i2percent/"
 layout: archive
-excerpt: 'Project task: Design an interactive, content-rich interface for a special
-  feature series on unemployment in the Bronx.'
+title: "INTERACTIVE: The 12 Percent."
+excerpt: "Project task: Design an interactive, content-rich interface for a special feature series on unemployment in the Bronx."
 collection: portfolio
+date: 2012-04-01
+permalink: /portfolio/i2percent/
 header:
-  teaser: "/portfolio/perc.png"
+  teaser: /portfolio/perc.png
 sidebar:
-- title: Role
-  image: "/images/portfolio/perc.png"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/perc.png
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
 ---
 
 Project task: Design an interactive, content-rich interface for a special feature series on unemployment in the Bronx.

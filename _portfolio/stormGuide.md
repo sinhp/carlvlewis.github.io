@@ -1,35 +1,33 @@
 ---
-title: Storm Guide by savannahnow.com
-date: 2013-06-14 00:00:00 -04:00
-permalink: "/portfolio/storm-savannah-now/"
-tags:
-- APP-DEVELOPMENT
 layout: archive
-excerpt: 'For the 2013 hurricane season, I built a native iOS and Android app with
-  an accompanying HTML5 '
+title: "Storm Guide by savannahnow.com"
+excerpt: "For the 2013 hurricane season, I built a native iOS and Android app with an accompanying HTML5 "
 collection: portfolio
+tags: APP-DEVELOPMENT
+date: 2013-06-14
+permalink: /portfolio/storm-savannah-now/
 header:
-  teaser: "/portfolio/storm.jpg"
+  teaser: /portfolio/storm.jpg
 sidebar:
-- title: Role
-  image: "/images/portfolio/storm.jpg"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/storm.jpg
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: "/images/portfolio/storm1.jpg"
-  image_path: "/images/portfolio/storm1.jpg"
-  alt: storm app
-- url: "/images/portfolio/storm2.jpg"
-  image_path: "/images/portfolio/storm2.jpg"
-  alt: storm app
-- url: "/images/portfolio/storm3.jpg"
-  image_path: "/images/portfolio/storm3.jpg"
-  alt: storm app
-- url: "/images/portfolio/storm4.jpg"
-  image_path: "/images/portfolio/storm4.jpg"
-  alt: storm app
+  - url: /images/portfolio/storm1.jpg
+    image_path: /images/portfolio/storm1.jpg
+    alt: storm app
+  - url: /images/portfolio/storm2.jpg
+    image_path: /images/portfolio/storm2.jpg
+    alt: storm app
+  - url: /images/portfolio/storm3.jpg
+    image_path: /images/portfolio/storm3.jpg
+    alt: storm app
+  - url: /images/portfolio/storm4.jpg
+    image_path: /images/portfolio/storm4.jpg
+    alt: storm app
 ---
 
 For the 2013 hurricane season, I built a native iOS and Android app with an accompanying HTML5 mobile site to tie in with the print edition of our annual “Hurricane Guide” sponsored by Georgia Power.

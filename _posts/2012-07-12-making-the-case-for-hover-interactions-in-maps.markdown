@@ -1,6 +1,6 @@
 ---
 title: Making the case for hover interactions in maps
-date: 2012-07-12 17:08:34 -04:00
+date: '2012-07-12T21:08:34.000+00:00'
 categories:
 - Blog
 - Data Visualization

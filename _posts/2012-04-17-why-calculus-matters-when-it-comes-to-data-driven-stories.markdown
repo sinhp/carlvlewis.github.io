@@ -1,6 +1,6 @@
 ---
 title: Why calculus matters when it comes to data-driven stories
-date: 2012-04-17 17:30:50 -04:00
+date: '2012-04-17T21:30:50.000+00:00'
 categories:
 - Blog
 - Data Visualization Thoughts

@@ -1,36 +1,30 @@
 ---
-title: 'Cleaning Up a Country: A Data-Driven Examination of Ethiopia’s Growing Sanitation
-  Issues'
-date: 2014-07-01 00:00:00 -04:00
-permalink: "/portfolio/MercerCluster.com/"
-tags:
-- DATA-VIZ
-- INTERACTIVES
-- MULTIMEDIA
-- NEWS-APPS
 layout: archive
-excerpt: Embedded above is a pure JavaScript-powered flowchart from a [team project](http://carlvlewis2.wpengine.com/dmchallenge)
-  that was part of Columbia University’s Tow Center
+title: "Cleaning Up a Country: A Data-Driven Examination of Ethiopia’s Growing Sanitation Issues"
+excerpt: "Embedded above is a pure JavaScript-powered flowchart from a [team project](http://carlvlewis2.wpengine.com/dmchallenge) that was part of Columbia University’s Tow Center"
 collection: portfolio
+tags: DATA-VIZ INTERACTIVES MULTIMEDIA NEWS-APPS
+date: 2014-07-01
+permalink: /portfolio/MercerCluster.com/
 header:
-  teaser: "/portfolio/eth.png"
+  teaser: /portfolio/eth.png
 sidebar:
-- title: Role
-  image: "/images/portfolio/eth.png"
-  image_alt: logo
-  text: Designer, Front-End Developer
-- title: Responsibilities
-  text: Reuters try PR stupid commenters should isn't a business model
+  - title: "Role"
+    image: /images/portfolio/eth.png
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
-- url: 
-  image_path: 
-  alt: 
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
+  - url:
+    image_path:
+    alt:
 ---
 
 <iframe src="http://carlvlewis2.wpengine.com/dmchallenge/terrapretta/TerraPretaSlide.html" width="960px" height="600px"></iframe>

@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2017-04-17 15:37:00 -04:00
+date: '2017-04-17T19:37:00.000+00:00'
 permalink: "/about/"
 layout: single
 ---

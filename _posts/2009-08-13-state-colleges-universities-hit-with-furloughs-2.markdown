@@ -1,6 +1,6 @@
 ---
 title: State colleges, universities hit with furloughs
-date: 2009-08-13 02:45:04 -04:00
+date: '2009-08-13T06:45:04.000+00:00'
 categories:
 - Deadline
 - Print
