@@ -7,16 +7,16 @@ date: 2017-06-26
 collection: portfolio
 permalink: /portfolio/trump-conflicts/
 header:
-  teaser: /portfolio/unemployment.png
+  teaser: /portfolio/Screenshot 2017-10-10 13.34.24.png
 sidebar:
   - title: "Role"
-    image: /images/portfolio/unemployment.png
+    image: /portfolio/Screenshot 2017-10-10 13.34.24.png
     image_alt: "logo"
     text: "Scraped, cleaned dataset; formatted into structure for d3.hierarchy; coded d3.js visualization"
   - title: "Goal"
     text: "To map out Donald J. Trump's myriad conflicts of interest as President."
 gallery:
-  - url: /portfolio/unemployment.png
+  - url: /portfolio/Screenshot 2017-10-10 13.34.24.png
     image_path: /portfolio/Screenshot 2017-10-10 13.34.24.png
     alt:
   - url:
