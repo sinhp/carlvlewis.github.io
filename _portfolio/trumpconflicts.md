@@ -17,7 +17,7 @@ sidebar:
     text: "To map out Donald J. Trump's myriad conflicts of interest as President."
 gallery:
   - url: /portfolio/unemployment.png
-    image_path:
+    image_path: /portfolio/Screenshot 2017-10-10 13.34.24.png
     alt:
   - url:
     image_path:
