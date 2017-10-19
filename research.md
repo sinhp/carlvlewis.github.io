@@ -15,7 +15,7 @@ author_profile: true
 
 ["The Newsonomics of Mashable"](https://academiccommons.columbia.edu/catalog/ac:205571)
 
-["Transcending the Editorial Thunder: Atlanta's Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins"](
+["Transcending the Editorial Thunder: Atlanta's Newspaper Coverage of the 1960 Student Lunch-Counter Sit-ins"](https://www.academia.edu/7340632/_Transcending_the_Editorial_Thunder_Atlantas_Newspaper_Coverage_of_the_1960_Student_Sit-Ins._)
 
 ### Research Awards
 
