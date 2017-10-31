@@ -4,16 +4,16 @@ title: "Collegetown Macon"
 date: 2012-03-31
 excerpt: "During my sophomore year of college, I received funding from the Knight Foundation to develop an online student guide to Macon, Ga."
 collection: portfolio
-permalink: /portfolio/MercerCluster.com/
+permalink: /portfolio/collegetownmacon/
 header:
   teaser: /portfolio/collegemacon.png
 sidebar:
   - title: "Role"
     image: /images/portfolio/collegemacon.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Project Manager, Instructor, Content Strategist"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Worked with my Civic and Community journalism class at Mercer to produce content for the site, then acquired funding from the Knight Foundation and the College Hill Alliance to purchase domain space for and publicize the project. "
 gallery:
   - url: /images/portfolio/college1.png
     image_path: /images/portfolio/college1.png
