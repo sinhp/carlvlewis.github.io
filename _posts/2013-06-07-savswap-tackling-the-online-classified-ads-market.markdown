@@ -5,7 +5,7 @@ categories:
 - Blog
 - Media Business Models
 ---
-
+<img src="http://cvlassets.s3.amazonaws.com/Screen-Shot-2013-06-07-at-10.59.44-PM-e1373450527243-1.jpg"></img>
 <p>Innovative, quality journalism takes money to produce. In the past, one of the largest revenue streams for news organizations has traditionally come from the classified ad market – a revenue stream that has all but dried up in today's era of Craigslist and eBay. As an online editor, developer, manager and digital strategist for <a href="http://savannahnow.com">Savannah Morning News and savannahnow.com</a>, a midsized news organization owned by <a href="http://morris.com">Morris Publishing Group</a>, I've sat through countless digital strategy meetings discussing how we as a company can win back a sliver of the online classified ad market, if for no other reason than audience growth, and with the longterm goal of driving revenue to support our company's journalistic efforts.</p>
 <p><!--more--></p>
 <p>After brainstorming the issue with our V.P. of Audience <a href="http://yelvington.com">Steve Yelvington</a>, I identified a few key competitive advantages news organizations may still possess in the classified market:</p>
