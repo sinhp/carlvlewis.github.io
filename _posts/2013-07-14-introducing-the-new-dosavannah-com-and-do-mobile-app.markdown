@@ -2,7 +2,7 @@
 title: Why we built the new dosavannah.com and Do mobile app
 date: '2013-07-14T08:18:26.000+00:00'
 ---
-
+<img src="http://cvlassets.s3.amazonaws.com/dosavannah-1.png">
 <p>After launching the expanded standalone print edition of <a href="http://dosavannah.com/">Do</a>, our weekly arts-and-entertainment section for Savannah Morning News, back in March, we had a feeling the new physical product would soon outgrow its current digital home at savannahnow.com/do. We just didn't know how soon that day would come.</p>
 <p>So, after only three hectic months of strategy meetings, planning sessions, company proposals, product development, site design and end-user implementation, we're happy to announce the launch of our new Do website at <strong><a href="http://dosavannah.com/">dosavannah.com</a></strong>, as well as an accompanying interactive mobile <strong><a href="http://dosavannah.com/app">Do app</a></strong> for iOS and Android devices.<!--more--></p>
 <p>What's so great about the new Do products, you ask? Well, a few things:</p>
