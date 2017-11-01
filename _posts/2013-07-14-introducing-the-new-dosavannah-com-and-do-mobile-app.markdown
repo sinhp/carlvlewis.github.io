@@ -1,7 +1,7 @@
 ---
 title: Why we built the new dosavannah.com and Do mobile app
 date: '2013-07-14T08:18:26.000+00:00'
-teaser: "[http://cvlassets.s3.amazonaws.com/dosavannah-1.png]() After launching the expanded standalone print edition of [Do](http://dosavannah.com), our weekly arts-and-entertainment section for Savannah Morning News, back in March, we had a feeling the new physical product would soon outgrow its current digital home at savannahnow.com/do. We just didn't know how soon that day would come."
+excerpt: "[http://cvlassets.s3.amazonaws.com/dosavannah-1.png]() After launching the expanded standalone print edition of [Do](http://dosavannah.com), our weekly arts-and-entertainment section for Savannah Morning News, back in March, we had a feeling the new physical product would soon outgrow its current digital home at savannahnow.com/do. We just didn't know how soon that day would come."
 ---
 <img src="http://cvlassets.s3.amazonaws.com/dosavannah-1.png">
 <p>After launching the expanded standalone print edition of <a href="http://dosavannah.com/">Do</a>, our weekly arts-and-entertainment section for Savannah Morning News, back in March, we had a feeling the new physical product would soon outgrow its current digital home at savannahnow.com/do. We just didn't know how soon that day would come.</p>
