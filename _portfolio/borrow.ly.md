@@ -9,12 +9,12 @@ tags: APP-DEVELOPMENT RESPONSIVE-WEB-DEVELOPMENT SIDE-PROJECTS
 header:
   teaser: /portfolio/borrow.png
 sidebar:
-  - title: "Role"
+  - title: "Founder"
     image: /images/portfolio/borrow.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Validated model for hyperlocal, geofence item sharing marketplace; built MVP in Ruby on Rails."
+  - title: "Outcomes"
+    text: "Abandoned owing to the death of my mom in 2014."
 gallery:
   - url: /images/portfolio/bor1.png
     image_path: /images/portfolio/bor1.png
