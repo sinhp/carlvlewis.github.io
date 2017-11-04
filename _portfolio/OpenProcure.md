@@ -18,7 +18,7 @@ gallery:
     image_path: /images/portfolio/open.png
     alt:
   - url: http://cvlassets.s3.amazonaws.com/np_dna_735322_3CA613.png
-    image_path: http://cvlassets.s3.amazonaws.com/np_dna_735322_3CA613.png
+    image_path:
     alt:
   - url:
     image_path:
