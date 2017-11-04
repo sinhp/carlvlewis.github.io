@@ -12,15 +12,13 @@ sidebar:
   - title: "Role"
     image: /images/portfolio/open.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Lead Contributor"
 gallery:
   - url: /images/portfolio/open.png
     image_path: /images/portfolio/open.png
     alt:
-  - url:
-    image_path:
+  - url: http://cvlassets.s3.amazonaws.com/np_dna_735322_3CA613.png
+    image_path: http://cvlassets.s3.amazonaws.com/np_dna_735322_3CA613.png
     alt:
   - url:
     image_path:
